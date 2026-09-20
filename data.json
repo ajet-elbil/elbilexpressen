@@ -1,0 +1,2020 @@
+{
+  "meta": {
+    "brand": "Elbilexpressen",
+    "tagline": "God service. Rask time. Solid kompetanse.",
+    "phone": "+47 24 20 00 23",
+    "address": "Konows gate 67B, 0196 Oslo",
+    "email": "kontakt@elbilexpressen.no",
+    "language": "no",
+    "targetBrands": [
+      "Tesla",
+      "Audi",
+      "BMW",
+      "Volkswagen"
+    ],
+    "seoKeywords": [
+      "Tesla service Oslo",
+      "Audi e-tron service Oslo",
+      "BMW elbil service Oslo",
+      "Volkswagen ID service Oslo",
+      "service alle bilmerker Oslo",
+      "elbilverksted Oslo",
+      "Tesla verksted Oslo",
+      "elbil diagnostikk Oslo",
+      "EU-kontroll elbil Oslo",
+      "elbil vedlikehold Oslo",
+      "Tesla service Konows gate",
+      "hybridverksted Oslo",
+      "rask time elbilservice Oslo",
+      "EV Hub samarbeidspartner Oslo",
+      "bilvask elbil Oslo",
+      "prisgaranti bilverksted Oslo",
+      "dekk elbil Oslo",
+      "dekkhotell Oslo",
+      "drop-in dekkskift Oslo"
+    ]
+  },
+  "hero": {
+    "headline": "Raskt inn. Trygt ut.",
+    "subheadline": "Service på kort varsel for alle bilmerker med el- og hybriddrift – med særlig kompetanse på Tesla, Audi, BMW og Volkswagen. Avanserte reparasjoner utføres i tett samarbeid med EV Hub.",
+    "cta_primary": "Bestill time",
+    "cta_secondary": "Kontakt oss",
+    "cta_tertiary": "TOCN",
+    "trust_badges": [
+      "Rask timebestilling",
+      "Alle bilmerker",
+      "Godkjent verksted",
+      "Kompetanse på avanserte reparasjoner",
+      "Samarbeidspartner med EV Hub og TOCN",
+      "Henting og levering etter avtale",
+      "Gratis håndvask ved service",
+      "12 måneders mobilitetsgaranti ved service",
+      "Prisgaranti mot seriøse verksteder",
+      "Dekk, dekkskift og dekkhotell"
+    ]
+  },
+  "about": {
+    "title": "Et verksted som gjør det enkelt å få bilen på veien igjen",
+    "description": "Hos Elbilexpressen skal det være enkelt å få hjelp. Vi tilbyr god kundeservice, rask timebestilling og effektiv gjennomføring for el- og hybridbiler. Enten bilen trenger vanlig service, EU-kontroll eller en mer omfattende reparasjon, får du tydelig informasjon og et løsningsforslag tilpasset behovet. Bak den enkle kundeopplevelsen har vi kompetansen og utstyret som kreves for avansert diagnostikk og omfattende reparasjoner på elektriske drivlinjer og høyspenningssystemer. EV Hub er en viktig teknisk samarbeidspartner for oss og styrker kapasiteten vår i særlig krevende saker.",
+    "values": [
+      {
+        "title": "Rask og enkel timebestilling",
+        "description": "Vi har korte beslutningsveier og høy kapasitet, slik at du normalt kan få time raskt – nesten som drop-in på service."
+      },
+      {
+        "title": "Prisgaranti",
+        "description": "Har du et sammenlignbart skriftlig tilbud fra et seriøst, offentlig godkjent verksted, skal vi gi deg en lavere totalpris på samme jobb."
+      },
+      {
+        "title": "Kompetanse når jobben blir krevende",
+        "description": "Vi utfører også avansert diagnostikk og omfattende reparasjoner på el- og hybridbiler, blant annet på høyspenningssystemer, batterier og drivenheter. Ved særlig krevende oppdrag samarbeider vi tett med EV Hub."
+      },
+      {
+        "title": "Service etter produsentens krav",
+        "description": "Vi utfører og dokumenterer service i henhold til produsentens serviceprogram og benytter deler av original eller tilsvarende kvalitet. Dine garantirettigheter ivaretas i tråd med gjeldende regler og garantivilkår."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Rask time",
+        "label": "Nesten som drop-in på service"
+      },
+      {
+        "value": "Mange merker",
+        "label": "El- og hybridbiler"
+      },
+      {
+        "value": "Prisgaranti",
+        "label": "Vi slår sammenlignbare verkstedtilbud"
+      },
+      {
+        "value": "Sterke samarbeid",
+        "label": "EV Hub og TOCN"
+      },
+      {
+        "value": "Ca. 3 000 kunder",
+        "label": "Kapasitet på dekkhotellet"
+      }
+    ]
+  },
+  "brands": {
+    "label": "Bilmerker",
+    "title": "Bilmerker vi jobber med",
+    "description": "Vi tar imot alle bilmerker med el- og hybriddrift. På nettsiden fremhever vi særlig disse fire merkene:",
+    "featured": [
+      {
+        "name": "Tesla",
+        "models": "Model 3, Model Y, Model S og Model X"
+      },
+      {
+        "name": "Audi",
+        "models": "e-tron, Q4 e-tron, Q6 e-tron og e-tron GT"
+      },
+      {
+        "name": "BMW",
+        "models": "BMW i-serien og ladbare hybrider"
+      },
+      {
+        "name": "Volkswagen",
+        "models": "ID.-serien og ladbare hybrider"
+      }
+    ],
+    "othersTitle": "Vi arbeider også med blant annet:",
+    "others": [
+      "Mercedes-Benz",
+      "Porsche",
+      "Volvo",
+      "Polestar",
+      "Škoda",
+      "Cupra",
+      "Jaguar",
+      "Land Rover",
+      "Hyundai",
+      "Kia",
+      "Nissan",
+      "Renault",
+      "Ford",
+      "Toyota",
+      "Lexus",
+      "Peugeot",
+      "Citroën",
+      "Opel",
+      "Fiat",
+      "Jeep",
+      "Honda",
+      "Mazda",
+      "Mitsubishi",
+      "Subaru",
+      "Suzuki",
+      "MG",
+      "BYD",
+      "NIO",
+      "XPENG",
+      "Hongqi",
+      "Andre bilmerker med el- og hybriddrift"
+    ]
+  },
+  "priceGuarantee": {
+    "badge": "Vår prisgaranti",
+    "title": "Vi skal slå seriøse verksteder på pris",
+    "subtitle": "Samme jobb. Sammenlignbar kvalitet. Lavere totalpris.",
+    "description": "Elbilexpressen skal kombinere høy kvalitet med konkurransedyktige priser. Har du fått et skriftlig tilbud fra et annet seriøst og offentlig godkjent verksted, sender du det til oss før arbeidet bestilles. Når tilbudet gjelder samme jobb, samme omfang og deler av tilsvarende kvalitet, skal vi gi deg en lavere totalpris.",
+    "cta": "Send oss tilbudet",
+    "stepsTitle": "Slik fungerer prisgarantien",
+    "steps": [
+      {
+        "title": "Send oss et skriftlig tilbud",
+        "description": "Tilbudet må komme fra et registrert og offentlig godkjent verksted og vise registreringsnummer, arbeidsomfang, deler og totalpris."
+      },
+      {
+        "title": "Vi sammenligner samme jobb",
+        "description": "Arbeidstid, deler, væsker, avgifter, garanti og øvrig innhold må være direkte sammenlignbart."
+      },
+      {
+        "title": "Vi gir deg en lavere totalpris",
+        "description": "Når vilkårene er oppfylt, gir Elbilexpressen deg et tilbud med lavere totalpris for den samme jobben."
+      }
+    ],
+    "termsTitle": "Vilkår",
+    "terms": [
+      "Konkurrentens tilbud må være skriftlig, spesifisert og ikke eldre enn 14 dager",
+      "Verkstedet må være registrert og offentlig godkjent i Norge",
+      "Prisene må være oppgitt inkludert merverdiavgift og øvrige gebyrer",
+      "Arbeidsomfanget og kvaliteten på delene må være sammenlignbare",
+      "Prisgarantien må avklares før bestilling eller godkjenning av arbeidet",
+      "Garantien gjelder ikke åpenbare prisfeil, privat arbeid, kundeleverte eller brukte deler, forsikringsoppdrag eller garantiarbeid",
+      "Særskilte klubb-, medlems- og kampanjepriser vurderes separat"
+    ]
+  },
+  "capabilities": {
+    "badge": "Moderne verksted i Oslo",
+    "title": "Enkelt for kunden. Solid kapasitet på verkstedet.",
+    "subtitle": "Fra rask service til avanserte reparasjoner – samlet under ett tak",
+    "description": "Elbilexpressen holder til i et moderne verksted på ca. 3 500 m² i Konows gate 67B. Vi er et godkjent kategori 01-verksted og har utstyr og kompetanse for både vanlig vedlikehold og krevende arbeid på el- og hybridbiler. Verkstedet har blant annet Tesla Toolbox 3, Autel, Bosch og Launch diagnoseutstyr, Hunter hjulstillingsutstyr og egen EU-kontrollinje.",
+    "areasTitle": "Fagområder",
+    "areas": [
+      {
+        "title": "Diagnose og programmering",
+        "description": "Systematisk feilsøking med profesjonelt utstyr og tilgang til relevante systemdata."
+      },
+      {
+        "title": "Høyvolt og elektrisk drivlinje",
+        "description": "Kompetanse på batterisystemer, drivenheter, ladeutstyr, klimakomponenter og isolasjonsfeil."
+      },
+      {
+        "title": "Mekanisk arbeid",
+        "description": "Service, bremser, understell, hjulstilling, klimaanlegg og EU-kontroll."
+      },
+      {
+        "title": "Teknisk samarbeid med EV Hub",
+        "description": "I særlig krevende saker kombinerer vi vår verkstedkapasitet med EV Hubs tekniske fagmiljø."
+      }
+    ]
+  },
+  "services": [
+    {
+      "id": "diagnostikk",
+      "title": "Diagnostikk og feilsøking",
+      "badge": "Profesjonelt utstyr",
+      "shortDescription": "Avlesning av feilkoder og systematisk feilsøking med profesjonelt diagnoseutstyr for el- og hybridbiler.",
+      "includes": [
+        "Fullstendig avlesning av alle feilkoder i bilens systemer",
+        "Analyse av drivenhet, ladesystem og høyspenningskomponenter",
+        "Kontroll av BMS (Battery Management System)",
+        "Kontroll av programvarevarsler og relevant systemstatus",
+        "Skriftlig rapport med funn og anbefalte tiltak",
+        "Prisanslag for videre reparasjon om nødvendig"
+      ],
+      "interval": "Ved behov – eller som forebyggende sjekk hvert år",
+      "duration": "Ca. 45–60 minutter",
+      "price": {
+        "standard": "Fra kr 990,-",
+        "tocn": "Fra kr 790,- (TOCN-rabatt)"
+      }
+    },
+    {
+      "id": "eu-kontroll",
+      "title": "EU-kontroll",
+      "badge": "Godkjent stasjon",
+      "shortDescription": "Offisiell periodisk kjøretøykontroll for elbiler. Fast pris, rask gjennomføring.",
+      "includes": [
+        "Full periodisk kjøretøykontroll (PKK)",
+        "Kontroll av bremser og bremsesystem",
+        "Kontroll av lys – frontlys, baklys og blinklys",
+        "Inspeksjon av hjuloppheng og understell",
+        "Sjekk av karosseri og sikt",
+        "Kontroll av identifikasjon (VIN og skiltnummer)",
+        "Digital innrapportering til Statens vegvesen"
+      ],
+      "interval": "Påkrevd etter 4 år fra registrering, deretter hvert 2. år",
+      "duration": "Ca. 45–60 minutter",
+      "price": {
+        "standard": "Kr 990,-",
+        "tocn": "Kr 890,- (TOCN-medlemspris)"
+      }
+    },
+    {
+      "id": "bremseservice",
+      "title": "Bremseservice",
+      "badge": "Viktig for elbiler",
+      "shortDescription": "Rens og smøring av bremsekalipere – ekstra viktig for elbiler med regenerativ bremsing.",
+      "includes": [
+        "Visuell inspeksjon av bremseskiver og bremsebelegg",
+        "Rens og smøring av alle bremsekalipere",
+        "Kontroll av bremsevæskenivå",
+        "Anbefaling om videre tiltak ved behov"
+      ],
+      "interval": "Anbefalt årlig eller hver 20 000 km",
+      "duration": "Ca. 45 minutter",
+      "price": {
+        "standard": "Fra kr 1 490,-",
+        "tocn": "Inkludert i servicepakkene (TOCN-rabatt)"
+      }
+    },
+    {
+      "id": "kupefilter",
+      "title": "Skifte av kupefilter",
+      "badge": "20 min",
+      "shortDescription": "Renere luft i kupéen på kort tid. En enkel service som bidrar til bedre inneklima og luftgjennomstrømning.",
+      "includes": [
+        "Fjerning og kassering av gammelt kupefilter",
+        "Montering av nytt kupefilter (OEM-kvalitet)",
+        "Kontroll av luftgjennomstrøm"
+      ],
+      "interval": "Hvert 2. år – eller årlig ved mye bykjøring og høy luftforurensning",
+      "duration": "Ca. 20 minutter",
+      "price": {
+        "standard": "Fra kr 690,-",
+        "tocn": "Gratis montering (TOCN-fordel) – kun delkostnad"
+      }
+    },
+    {
+      "id": "dekk-dekkskift-balansering",
+      "title": "Dekk, dekkskift og balansering",
+      "badge": "Drop-in eller timebestilling",
+      "shortDescription": "Vi selger sommerdekk og vinterdekk til el-, hybrid- og personbiler. Du kan komme på drop-in eller bestille time for raskere planlegging.",
+      "includes": [
+        "Tilbud på dekk tilpasset bilmodell, kjøremønster og budsjett",
+        "Montering av nye dekk på felg",
+        "Skifte av fire komplette hjul",
+        "Balansering av hjul",
+        "Kontroll av mønsterdybde og dekkslitasje",
+        "Justering av lufttrykk etter fabrikkspesifikasjon",
+        "Kontroll av TPMS/dekktrykksensorer ved behov",
+        "Vurdering av behov for hjulstilling ved ujevn dekkslitasje"
+      ],
+      "interval": "Ved sesongskifte eller behov",
+      "duration": "Ca. 45 minutter",
+      "price": {
+        "standard": "Fra kr 990,-",
+        "tocn": "Fra kr 790,- (TOCN-rabatt)"
+      },
+      "note": "Prisgaranti: Send oss et sammenlignbart tilbud på samme dekkmodell, dimensjon, belastningsindeks, hastighetsmerking og ferdig montert totalpris. Når vilkårene er oppfylt, gir vi deg en lavere pris.",
+      "bookingLabel": "Dekk og dekkskift",
+      "bookingPrice": "Fra kr 990,-"
+    },
+    {
+      "id": "ac-service",
+      "title": "AC-service og klimarens",
+      "badge": "Inkl. varmepumpetest",
+      "shortDescription": "Kontroll, lekkasjesøk og service på klimaanlegget. Et velfungerende klimaanlegg er viktig for både komfort, batteritemperatur og rekkevidde.",
+      "includes": [
+        "Trykktest og lekkasjekontroll av AC-systemet",
+        "Rens av fordamper og luftekanaler",
+        "Skift av kupefilter/pollenfilter",
+        "Etterfylling av kjølemiddel ved behov og etter avtale",
+        "Funksjonstest av varmepumpe ved relevante symptomer"
+      ],
+      "interval": "Anbefalt hvert 2. år",
+      "duration": "Ca. 60–90 minutter",
+      "price": {
+        "standard": "Fra kr 1 890,-",
+        "tocn": "Gratis montering av kupefilter (TOCN-fordel)"
+      }
+    },
+    {
+      "id": "12v-batteri",
+      "title": "Kontroll av 12-voltsbatteri",
+      "badge": "30 min",
+      "shortDescription": "Rask test av bilens 12-voltsbatteri – kan forebygge feilmeldinger, driftsstans og problemer med å aktivere bilen.",
+      "includes": [
+        "Test av 12V-batteriets kapasitet og ladetilstand",
+        "Kontroll av ladestrøm fra bilens systemer",
+        "Vedlikeholdslading om nødvendig",
+        "Anbefaling om skifte ved behov"
+      ],
+      "interval": "Kontroll anbefalt årlig – typisk levetid 4–6 år",
+      "duration": "Ca. 30 minutter",
+      "price": {
+        "standard": "Fra kr 390,-",
+        "tocn": "Inkludert i servicepakkene"
+      },
+      "bookingLabel": "12-voltsbatteri"
+    },
+    {
+      "id": "dekkhotell",
+      "title": "Dekkhotell",
+      "badge": "Dekkskift inkludert",
+      "shortDescription": "Trygg og oversiktlig oppbevaring av sesonghjul, med kapasitet til ca. 3 000 kunder. Vi gjør hjulene klare og skifter dem når sesongen kommer.",
+      "includes": [
+        "Forsvarlig og sikret lagring av inntil fire komplette hjul",
+        "Merking og registrering i vårt system",
+        "Kontroll av dekk ved innlevering og utlevering",
+        "Kontroll av mønsterdybde og synlige skader",
+        "Kontroll og justering av lufttrykk",
+        "Dekkskift ved sesongbytte",
+        "Varsling og enkel timebestilling før sesongen"
+      ],
+      "interval": "Sesongbasert – sommer og vinter",
+      "duration": "Innlevering: Ca. 15 minutter",
+      "price": {
+        "standard": "Kr 1 390,- per sesong, inkludert dekkskift",
+        "tocn": "Rabattert for TOCN-medlemmer – kontakt oss"
+      },
+      "bookingPrice": "Kr 1 390,- per sesong"
+    },
+    {
+      "id": "henting-levering",
+      "title": "Vi kan hente og levere bilen",
+      "badge": "Etter avtale",
+      "shortDescription": "Har du en travel hverdag? Vi kan hente bilen hjemme eller på arbeidsplassen og levere den tilbake når arbeidet er ferdig.",
+      "includes": [
+        "Henting på avtalt adresse",
+        "Transport av bilen til verkstedet",
+        "Løpende informasjon mens bilen er hos oss",
+        "Levering tilbake etter fullført arbeid",
+        "Tydelig pris avtalt på forhånd"
+      ],
+      "interval": "Ved behov og etter avtale",
+      "duration": "Avhenger av avstand, trafikk og verkstedoppdrag",
+      "price": {
+        "standard": "Tilleggstjeneste – pris beregnes etter avstand og avtales på forhånd",
+        "tocn": "Kontakt oss for medlemspris"
+      },
+      "bookingLabel": "Henting og levering",
+      "bookingPrice": "Pris etter avstand"
+    },
+    {
+      "id": "bilvask",
+      "title": "Innvendig rengjøring og utvendig håndvask",
+      "badge": "Gratis ved service",
+      "shortDescription": "Lever bilen til service og få den tilbake både ferdig vedlikeholdt og nyvasket. Alle som bestiller service hos oss, får gratis innvendig rengjøring og utvendig håndvask.",
+      "includes": [
+        "Skånsom utvendig håndvask",
+        "Rengjøring av bilens interiør",
+        "Støvsuging av kupé og gulvmatter",
+        "Avtørking av tilgjengelige innvendige flater",
+        "Enkel rengjøring av vinduer"
+      ],
+      "interval": "Ved behov – inkludert kostnadsfritt når bilen er inne til service",
+      "duration": "Avhenger av bilens størrelse og tilstand",
+      "price": {
+        "standard": "Kr 690,- uten service",
+        "service": "Gratis innvendig rengjøring og utvendig håndvask ved service"
+      },
+      "bookingLabel": "Bilvask inn- og utvendig",
+      "bookingPrice": "Kr 690,- – gratis ved service"
+    },
+    {
+      "id": "hoyvolt-reparasjon",
+      "title": "Avanserte reparasjoner på el- og hybridbiler",
+      "badge": "I samarbeid med EV Hub",
+      "shortDescription": "Vi feilsøker og reparerer feil i høyvoltsystemet og den elektriske drivlinjen. Målet er å finne årsaken og reparere på komponentnivå når det er faglig forsvarlig.",
+      "includes": [
+        "Diagnostikk av høyvoltbatteri og batteristyringssystem",
+        "Feilsøking av drivenhet, inverter og elektrisk motor",
+        "Kontroll av ombordlader, DC/DC-omformer og ladesystem",
+        "Feilsøking av isolasjonsfeil, høyvoltkabler og pyrosikring",
+        "Kontroll av PTC-varmer, AC-kompressor og termiske systemer",
+        "Reparasjon eller utskifting av komponenter etter avtale",
+        "Teknisk bistand fra EV Hub i særlig krevende saker",
+        "Dokumentasjon av funn og pristilbud før reparasjonen starter"
+      ],
+      "interval": "Ved feilmelding, ladeproblem, redusert effekt eller driftsstans",
+      "duration": "Avhenger av feilen og tilgangen på deler",
+      "price": {
+        "standard": "Prisoverslag gis etter innledende diagnostikk",
+        "tocn": "Medlemsfordel vurderes ut fra oppdraget"
+      },
+      "bookingLabel": "Reparasjon av høyvoltskomponenter",
+      "bookingPrice": "Pris etter diagnostikk"
+    },
+    {
+      "id": "tilstandskontroll",
+      "title": "Få bedre oversikt over bilens tekniske tilstand",
+      "badge": "Før kjøp, salg eller garantiutløp",
+      "shortDescription": "En utvidet kontroll som kombinerer mekanisk inspeksjon med diagnostikk av bilens elektriske systemer.",
+      "includes": [
+        "Full avlesning av bilens styresystemer og feilkoder",
+        "Kontroll av batteridata og helsetilstand der bilen gir tilgang til dette",
+        "Visuell kontroll av høyvoltkabler, kontakter og utsatte komponenter",
+        "Kontroll av ladesystem og relevante klimafunksjoner",
+        "Kontroll av bremser, understell, hjuloppheng og dekkslitasje",
+        "Test av 12-voltsbatteriet",
+        "Prøvekjøring ved behov",
+        "Skriftlig rapport med funn, prioriteringer og anbefalte tiltak"
+      ],
+      "interval": "Før kjøp eller salg, før garantiutløp eller ved behov for en grundig status",
+      "duration": "Avhenger av bilmodell og kontrollomfang",
+      "price": {
+        "standard": "Kontakt oss for pris på din bilmodell",
+        "tocn": "Kontakt oss for medlemspris"
+      },
+      "bookingLabel": "Utvidet tilstandskontroll",
+      "bookingPrice": "Kontakt oss for pris"
+    },
+    {
+      "id": "mobilitetsgaranti",
+      "title": "12 måneders mobilitetsgaranti inkludert ved service",
+      "badge": "Trygghet hele døgnet",
+      "shortDescription": "Når du gjennomfører kvalifiserende service hos oss, får du 12 måneders mobilitetsgaranti uten egenandel. Ordningen gir deg assistanse hele døgnet dersom bilen får driftsstans.",
+      "includes": [
+        "Assistanse 24 timer i døgnet, 365 dager i året",
+        "Dekning i hele Norden",
+        "Hjelp ved driftsstans og elektriske feil",
+        "Starthjelp ved problemer med 12-voltsbatteriet",
+        "Hjelp ved punktering",
+        "Assistanse ved utelåsing eller mistet eller ødelagt bilnøkkel",
+        "Hjelp dersom elbilen går tom for strøm",
+        "Transport til nærmeste avtaleverksted når feilen ikke kan løses på stedet",
+        "Ingen egenandel for assistanse som omfattes av ordningen"
+      ],
+      "interval": "Gjelder i 12 måneder fra gjennomført og registrert service",
+      "duration": "Aktiveres i forbindelse med kvalifiserende service",
+      "price": {
+        "standard": "Inkludert uten ekstra kostnad ved kvalifiserende service"
+      },
+      "note": "Vilkår: Gjelder service i henhold til produsentens serviceintervall eller godkjent årsservice. Fullstendige vilkår gjelder for ordningen.",
+      "bookable": false
+    }
+  ],
+  "tires": {
+    "badge": "Kapasitet til ca. 3 000 dekkhotellkunder",
+    "title": "Riktige dekk. Raskt skift. Trygg lagring.",
+    "subtitle": "Drop-in eller timebestilling – vi gjør dekksesongen enklere",
+    "description": "Hos Elbilexpressen får du dekk, montering, balansering, dekkskift og dekkhotell samlet på ett sted. Vi har særlig erfaring med dekk til elbiler, der riktig belastningsindeks, støynivå, rullemotstand og lufttrykk er viktig for sikkerhet, komfort og rekkevidde.",
+    "cta": "Bestill dekkskift eller be om dekktilbud",
+    "brandsTitle": "Dekkmerker",
+    "brandsText": "Vi tilbyr dekk i flere prisklasser fra blant annet Pirelli, Nokian Tyres, Continental, Goodyear og Dynamo. Utvalg og pris avhenger av dimensjon og tilgjengelighet.",
+    "benefits": [
+      {
+        "title": "Drop-in og timebestilling",
+        "description": "Kom innom når det passer, eller bestill tid for en mest mulig effektiv gjennomføring."
+      },
+      {
+        "title": "Dekk til elbil",
+        "description": "Vi hjelper deg å velge dekk med riktig bæreevne, støynivå og egenskaper for bilens vekt og effekt."
+      },
+      {
+        "title": "Dekkhotell med dekkskift",
+        "description": "Kr 1 390,- per sesong, inkludert oppbevaring, kontroll og dekkskift."
+      },
+      {
+        "title": "Prisgaranti på sammenlignbare tilbud",
+        "description": "Har du et spesifisert tilbud på identiske dekk ferdig montert, skal vi gi deg en lavere totalpris når vilkårene er oppfylt."
+      }
+    ]
+  },
+  "process": {
+    "label": "Slik jobber vi",
+    "title": "En ryddig verkstedopplevelse fra start til slutt",
+    "description": "Hos oss skal du vite hva som skjer med bilen, hva det koster og når den er ferdig.",
+    "steps": [
+      {
+        "title": "Bestill raskt",
+        "description": "Send oss registreringsnummeret og en kort beskrivelse. Vi finner første ledige time – ofte på kort varsel."
+      },
+      {
+        "title": "Lever bilen eller bestill henting",
+        "description": "Du kan levere bilen hos oss i Konows gate 67B, eller bestille betalt henting hjemme eller på arbeidsplassen."
+      },
+      {
+        "title": "Vi kontrollerer og feilsøker",
+        "description": "Vi undersøker bilen systematisk og finner årsaken før vi anbefaler videre arbeid."
+      },
+      {
+        "title": "Du godkjenner prisen",
+        "description": "Du får tydelig informasjon og prisoverslag. Vi utfører ikke tilleggsarbeid uten godkjenning."
+      },
+      {
+        "title": "Vi reparerer det som er nødvendig",
+        "description": "Målet er en trygg og kostnadseffektiv løsning – uten å skifte flere deler enn nødvendig."
+      },
+      {
+        "title": "Bilen vaskes og leveres tilbake",
+        "description": "Ved service får du gratis innvendig rengjøring og utvendig håndvask. Har du bestilt levering, kommer bilen tilbake til avtalt adresse."
+      }
+    ]
+  },
+  "teslaPackages": {
+    "badge": "Sterke fastpriser",
+    "title": "Mer service for pengene",
+    "subtitle": "Grundige Tesla-servicepakker til konkurransedyktige priser",
+    "description": "Vi har satt sammen servicepakker som gjør vedlikeholdet enkelt og forutsigbart. Bilen prøvekjøres ved behov, viktige slitasjepunkter kontrolleres, og du blir alltid kontaktet før eventuelt tilleggsarbeid utføres. Målet er å oppdage feil tidlig og bare anbefale det bilen faktisk trenger.",
+    "cta": "Bestill Tesla-service",
+    "packages": [
+      {
+        "title": "Liten service – jevnlig vedlikehold",
+        "description": "En grundig gjennomgang av sentrale service- og sikkerhetspunkter.",
+        "includes": [
+          "Prøvekjøring og kontroll av eventuelle ulyder eller avvik",
+          "Rens og smøring av bremser",
+          "Skifte av kupefilter",
+          "Kontroll av lys og signalhorn",
+          "Kontroll av forstilling, hjuloppheng og hjullager",
+          "Kontroll av fjærer og luftfjæring der bilen har dette",
+          "Funksjonskontroll av klimaanlegg",
+          "Kontroll av kjølevæskenivå og synlige lekkasjer",
+          "Kontroll av 12-voltsbatteri, dørhåndtak og brytere",
+          "Dokumentasjon av utført arbeid og anbefalte tiltak",
+          "Gratis innvendig rengjøring og utvendig håndvask",
+          "12 måneders mobilitetsgaranti ved kvalifiserende service"
+        ]
+      },
+      {
+        "title": "Stor service – utvidet kontroll",
+        "description": "Inneholder punktene i liten service, i tillegg til en mer omfattende teknisk gjennomgang.",
+        "includes": [
+          "Alle kontrollpunktene i liten service",
+          "Skifte av bremsevæske",
+          "Utvidet kontroll av kjølevæske og kjølekretser",
+          "Demontering av frunk og visuell kontroll av komponenter og tilkoblinger",
+          "Kontroll av hjulvinkler og indikasjon på behov for hjulstillingsjustering",
+          "Kontroll av rattaksel, servostyring og tannstang",
+          "Diagnosesøk etter lagrede og aktive feilkoder",
+          "Kontroll av vindusviskere og øvrige relevante slitasjepunkter",
+          "Dokumentasjon av funn og anbefaling før eventuelt tilleggsarbeid"
+        ]
+      }
+    ],
+    "pricelist": [
+      {
+        "model": "Tesla Model 3 / Model Y",
+        "services": [
+          {
+            "name": "Liten service",
+            "standard": "kr 3 490,-",
+            "tocn": "kr 3 400,-"
+          },
+          {
+            "name": "Stor service",
+            "standard": "kr 4 999,-",
+            "tocn": "kr 3 999,-"
+          }
+        ]
+      },
+      {
+        "model": "Tesla Model S / Model X",
+        "services": [
+          {
+            "name": "Liten service",
+            "standard": "kr 4 399,-",
+            "tocn": "kr 3 519,-"
+          },
+          {
+            "name": "Stor service",
+            "standard": "kr 5 900,-",
+            "tocn": "kr 4 720,-"
+          }
+        ]
+      }
+    ],
+    "priceNote": "Prisene gjelder angitt pakkeinnhold og inkluderer gratis innvendig rengjøring, utvendig håndvask og 12 måneders mobilitetsgaranti ved kvalifiserende service. Eventuelle ekstra deler, væsker eller reparasjoner avtales med kunden før arbeidet utføres."
+  },
+  "evHub": {
+    "badge": "Teknisk samarbeidspartner",
+    "title": "EV Hub – en viktig teknisk samarbeidspartner",
+    "subtitle": "Sammen står vi sterkere når reparasjonen krever avansert kompetanse",
+    "description": "EV Hub er en sentral samarbeidspartner for Elbilexpressen i krevende saker knyttet til høyvoltbatterier, drivenheter og elektriske drivlinjer. Samarbeidet gir oss tilgang til et sterkt fagmiljø og større kapasitet når bilen trenger mer enn vanlig service og vedlikehold. For kunden betyr det en helhetlig løsning, tydelig oppfølging og muligheten til å reparere fremfor å skifte mer enn nødvendig.",
+    "cta": "Les mer om avanserte reparasjoner",
+    "benefitsTitle": "Samarbeidsfordeler",
+    "benefits": [
+      {
+        "title": "Kompetanse på høyvoltbatterier",
+        "description": "Samarbeidet styrker vår kapasitet innen diagnostikk, reparasjon og utskifting av høyvoltbatterier."
+      },
+      {
+        "title": "Drivenheter og elektriske drivlinjer",
+        "description": "Vi samarbeider om krevende feil på drivenheter og andre sentrale komponenter i den elektriske drivlinjen."
+      },
+      {
+        "title": "Reparasjon når det er mulig",
+        "description": "Målet er å finne en faglig forsvarlig og kostnadseffektiv løsning – og bare skifte det som faktisk er nødvendig."
+      },
+      {
+        "title": "Én trygg kundereise",
+        "description": "Elbilexpressen følger opp kunden gjennom hele prosessen og koordinerer samarbeidet ved behov."
+      }
+    ]
+  },
+  "tocn": {
+    "title": "TOCN-samarbeidspartner",
+    "subtitle": "Tesla Owners Club Norway – medlemsfordeler hos Elbilexpressen",
+    "description": "Som samarbeidspartner med Tesla Owners Club Norway (TOCN) tilbyr vi avtalte medlemspriser og fordeler til TOCN-medlemmer. Vis gyldig medlemskap når du bestiller eller leverer bilen.",
+    "badge": "Offisiell TOCN-partner",
+    "benefits": [
+      {
+        "title": "Medlemspris på servicepakker",
+        "description": "Avtalte TOCN-priser på liten og stor service for Tesla Model 3/Y og Model S/X.",
+        "highlight": true
+      },
+      {
+        "title": "Fast EU-kontrollpris kr 890,-",
+        "description": "Ordinær pris kr 990,-. TOCN-medlemmer betaler kr 890,-.",
+        "highlight": false
+      },
+      {
+        "title": "Gratis montering av kupefilter",
+        "description": "TOCN-medlemmer betaler kun for selve filteret – montering er gratis.",
+        "highlight": false
+      },
+      {
+        "title": "Gratis sjekk av understell",
+        "description": "Visuell inspeksjon av understell og oppheng uten ekstra kostnad.",
+        "highlight": false
+      },
+      {
+        "title": "20 % rabatt på vindusviskere",
+        "description": "Skifte av vindusviskere med TOCN-rabatt.",
+        "highlight": false
+      }
+    ],
+    "pricelist": [
+      {
+        "model": "Tesla Model 3 / Model Y",
+        "services": [
+          {
+            "name": "Liten service",
+            "standard": "kr 3 490,-",
+            "tocn": "kr 3 400,-"
+          },
+          {
+            "name": "Stor service",
+            "standard": "kr 4 999,-",
+            "tocn": "kr 3 999,-"
+          },
+          {
+            "name": "Oljeskift drivenhet (Model 3)",
+            "standard": "kr 6 690,-",
+            "tocn": "kr 6 690,-"
+          },
+          {
+            "name": "EU-kontroll",
+            "standard": "kr 990,-",
+            "tocn": "kr 890,-"
+          }
+        ]
+      },
+      {
+        "model": "Tesla Model S / Model X",
+        "services": [
+          {
+            "name": "Liten service",
+            "standard": "kr 4 399,-",
+            "tocn": "kr 3 519,-"
+          },
+          {
+            "name": "Stor service",
+            "standard": "kr 5 900,-",
+            "tocn": "kr 4 720,-"
+          },
+          {
+            "name": "Oljeskift drivenhet (per enhet)",
+            "standard": "kr 3 100,-",
+            "tocn": "kr 3 100,-"
+          },
+          {
+            "name": "Oljeskift Performance (begge drivenheter)",
+            "standard": "kr 12 300,-",
+            "tocn": "kr 12 300,-"
+          },
+          {
+            "name": "EU-kontroll",
+            "standard": "kr 990,-",
+            "tocn": "kr 890,-"
+          }
+        ]
+      }
+    ],
+    "cta": "Vis TOCN-kort og spar"
+  },
+  "serviceIntervals": {
+    "title": "Vedlikeholdsintervaller for elbil",
+    "description": "Oversikt over anbefalte vedlikeholdsintervaller basert på produsentenes spesifikasjoner.",
+    "items": [
+      {
+        "service": "Kupefilter",
+        "interval": "Hvert 2. år",
+        "note": "Hvert år i byer med høy luftforurensning"
+      },
+      {
+        "service": "Bremseservice (rens/smøring)",
+        "interval": "Årlig eller hver 20 000 km",
+        "note": "Spesielt viktig pga. lite bruk av mekaniske bremser"
+      },
+      {
+        "service": "Dekkskift og kontroll av dekk",
+        "interval": "Ved sesongskifte eller behov",
+        "note": "Kontroller lufttrykk, mønsterdybde og ujevn slitasje regelmessig"
+      },
+      {
+        "service": "AC-service og klimarens",
+        "interval": "Hvert 2. år",
+        "note": ""
+      },
+      {
+        "service": "Kontroll av 12-voltsbatteri",
+        "interval": "Hvert år",
+        "note": "Typisk levetid 4–6 år"
+      },
+      {
+        "service": "EU-kontroll",
+        "interval": "4 år etter registrering, deretter hvert 2. år",
+        "note": "Lovpålagt"
+      },
+      {
+        "service": "Diagnostikk og feilkodekontroll",
+        "interval": "Årlig eller ved varsellys",
+        "note": "Forebygger større feil"
+      }
+    ]
+  },
+  "faq": [
+    {
+      "question": "Beholder jeg garantien etter service hos Elbilexpressen?",
+      "answer": "Vi utfører og dokumenterer service i henhold til produsentens serviceprogram og bruker deler av original eller tilsvarende kvalitet. Garantirettighetene dine ivaretas i tråd med gjeldende regler og bilens garantivilkår."
+    },
+    {
+      "question": "Tar dere service og reparasjoner på både el- og hybridbiler?",
+      "answer": "Ja. Vi tar imot alle bilmerker med el- og hybriddrift. Vi fremhever særlig Tesla, Audi, BMW og Volkswagen, men arbeider også med europeiske, asiatiske og amerikanske bilmerker. Send oss registreringsnummeret og en kort beskrivelse av behovet, så finner vi riktig løsning."
+    },
+    {
+      "question": "Hvor lang tid tar en vanlig service?",
+      "answer": "Tidsbruken avhenger av tjenesten og bilmodellen. Vi prioriterer rask timebestilling og effektiv gjennomføring, og på mange servicetjenester kan vi tilby time på kort varsel – nesten som drop-in. En EU-kontroll tar normalt ca. 45–60 minutter, mens diagnostikk og reparasjoner kan kreve mer tid."
+    },
+    {
+      "question": "Hva er TOCN og hvilke fordeler gir det?",
+      "answer": "TOCN (Tesla Owners Club Norway) er en medlemsklubb for Tesla-eiere. Som TOCN-samarbeidspartner tilbyr vi avtalte medlemspriser på blant annet servicepakker og EU-kontroll, i tillegg til utvalgte medlemsfordeler."
+    },
+    {
+      "question": "Trenger elbiler egentlig service?",
+      "answer": "Ja. Elbiler har færre bevegelige motordeler enn fossilbiler, men trenger fortsatt jevnlig vedlikehold. Bremser, kupefilter, dekk, klimaanlegg, understell og elektroniske systemer bør kontrolleres for å ivareta sikkerhet, driftssikkerhet og komfort."
+    },
+    {
+      "question": "Kan jeg vente mens bilen er på service?",
+      "answer": "Ja, ved mange av tjenestene våre kan du vente hos oss. Ved mer omfattende diagnostikk eller reparasjoner avtaler vi leveringstid på forhånd."
+    },
+    {
+      "question": "Hva innebærer samarbeidet med EV Hub?",
+      "answer": "EV Hub er en viktig teknisk samarbeidspartner i krevende saker som gjelder høyvoltbatterier, drivenheter og elektriske drivlinjer. Samarbeidet gir oss ekstra kapasitet og tilgang til et sterkt fagmiljø, mens Elbilexpressen følger opp deg og bilen gjennom prosessen."
+    },
+    {
+      "question": "Kan dere hente og levere bilen min?",
+      "answer": "Ja. Etter avtale kan vi hente bilen hjemme eller på arbeidsplassen og levere den tilbake når verkstedjobben er ferdig. Dette er en betalt tilleggstjeneste. Prisen beregnes ut fra avstand og avtales med deg på forhånd."
+    },
+    {
+      "question": "Får jeg gratis bilvask når bilen er på service?",
+      "answer": "Ja. Alle kunder som bestiller service hos oss, får gratis innvendig rengjøring og utvendig håndvask. Bilvask kan også bestilles separat for kr 690,-."
+    },
+    {
+      "question": "Får jeg mobilitetsgaranti når jeg tar service?",
+      "answer": "Ja. Ved kvalifiserende service får du 12 måneders mobilitetsgaranti uten egenandel. Ordningen gir døgnåpen assistanse i hele Norden ved blant annet driftsstans, elektrisk feil, punktering, starthjelp, utelåsing og tomt fremdriftsbatteri. Mobilitetsgarantien registreres i forbindelse med servicen og gjelder etter ordningens vilkår."
+    },
+    {
+      "question": "Hva innebærer prisgarantien?",
+      "answer": "Har du et skriftlig og sammenlignbart tilbud fra et registrert, offentlig godkjent verksted i Norge, skal vi gi deg en lavere totalpris på den samme jobben. Tilbudet må vise arbeidsomfang, deler og totalpris og være maksimalt 14 dager gammelt. Prisgarantien må avklares før arbeidet bestilles og gjelder etter våre vilkår."
+    },
+    {
+      "question": "Tilbyr dere dekk og dekkskift?",
+      "answer": "Ja. Vi selger sommerdekk og vinterdekk i flere prisklasser og tilbyr montering, balansering, dekkskift, kontroll av TPMS og vurdering av hjulstilling. Du kan komme på drop-in eller bestille time."
+    },
+    {
+      "question": "Hva inngår i dekkhotellet?",
+      "answer": "Dekkhotellet koster kr 1 390,- per sesong og inkluderer trygg oppbevaring av fire komplette hjul, kontroll av mønsterdybde, synlige skader og lufttrykk samt dekkskift. Vi har kapasitet til ca. 3 000 kunder."
+    }
+  ],
+  "seoPages": [
+    {
+      "slug": "tesla-service-oslo",
+      "label": "Tesla",
+      "title": "Tesla service Oslo – fastpris og rask time | Elbilexpressen",
+      "metaDescription": "Tesla-service i Oslo fra kr 3 490,-. Liten og stor service for Model 3, Y, S og X, EU-kontroll og diagnostikk. TOCN-medlemspris. Ring 24 20 00 23.",
+      "h1": "Tesla-service i Oslo – fastpriser og rask time",
+      "intro": "Elbilexpressen utfører Tesla-service i Konows gate 67B i Oslo. Liten service for Model 3 og Model Y koster kr 3 490,- og stor service kr 4 999,-, mens Model S og Model X koster henholdsvis kr 4 399,- og kr 5 900,-. Vi er samarbeidspartner for Tesla Owners Club Norway, og medlemmer får avtalt medlemspris på alle servicepakker.",
+      "keyFacts": [
+        {
+          "label": "Pris liten service",
+          "value": "Fra kr 3 490,-"
+        },
+        {
+          "label": "Pris stor service",
+          "value": "Fra kr 4 999,-"
+        },
+        {
+          "label": "EU-kontroll",
+          "value": "Kr 990,- (kr 890,- for TOCN-medlemmer)"
+        },
+        {
+          "label": "Diagnoseutstyr",
+          "value": "Tesla Toolbox 3, Autel, Bosch og Launch"
+        },
+        {
+          "label": "Sted",
+          "value": "Konows gate 67B, 0196 Oslo"
+        }
+      ],
+      "sections": [
+        {
+          "heading": "Hva koster Tesla-service i Oslo?",
+          "paragraphs": [
+            "Liten service koster kr 3 490,- for Tesla Model 3 og Model Y, og kr 4 399,- for Model S og Model X. Stor service koster kr 4 999,- for Model 3 og Model Y, og kr 5 900,- for Model S og Model X. Alle prisene er faste og inkluderer gratis innvendig rengjøring, utvendig håndvask og 12 måneders mobilitetsgaranti.",
+            "Er du medlem i Tesla Owners Club Norway, betaler du kr 3 400,- for liten service og kr 3 999,- for stor service på Model 3 og Model Y. For Model S og Model X er medlemsprisene kr 3 519,- og kr 4 720,-."
+          ]
+        },
+        {
+          "heading": "Hva inngår i en liten Tesla-service?",
+          "paragraphs": [
+            "Liten service er en grundig gjennomgang av sentrale service- og sikkerhetspunkter på bilen. Vi prøvekjører bilen ved behov og dokumenterer både utført arbeid og anbefalte tiltak."
+          ],
+          "bullets": [
+            "Prøvekjøring og kontroll av ulyder eller avvik",
+            "Rens og smøring av bremser",
+            "Skifte av kupefilter",
+            "Kontroll av forstilling, hjuloppheng og hjullager",
+            "Funksjonskontroll av klimaanlegg",
+            "Kontroll av kjølevæskenivå og synlige lekkasjer",
+            "Kontroll av 12-voltsbatteri, dørhåndtak og brytere"
+          ]
+        },
+        {
+          "heading": "Hva er forskjellen på liten og stor service?",
+          "paragraphs": [
+            "Stor service inneholder alle punktene i liten service og i tillegg en mer omfattende teknisk gjennomgang. Vi skifter bremsevæske, demonterer frunken for visuell kontroll av komponenter og tilkoblinger, kontrollerer rattaksel, servostyring og tannstang, og kjører et fullt diagnosesøk etter lagrede og aktive feilkoder.",
+            "Vi kontakter deg alltid før eventuelt tilleggsarbeid utføres. Målet er å oppdage feil tidlig og bare anbefale det bilen faktisk trenger."
+          ]
+        },
+        {
+          "heading": "Beholder jeg Tesla-garantien?",
+          "paragraphs": [
+            "Ja. Vi utfører og dokumenterer service i henhold til produsentens serviceprogram og bruker deler av original eller tilsvarende kvalitet. Garantirettighetene dine ivaretas i tråd med gjeldende regler og bilens garantivilkår."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Hvor kan jeg ta Tesla-service i Oslo?",
+          "answer": "Elbilexpressen i Konows gate 67B på Ekeberg i Oslo utfører service på Tesla Model 3, Model Y, Model S og Model X. Vi har Tesla Toolbox 3 og egen EU-kontrollinje i verkstedet. Ring 24 20 00 23 eller bestill time på nett."
+        },
+        {
+          "question": "Hva koster Tesla-service i Oslo?",
+          "answer": "Liten service koster fra kr 3 490,- og stor service fra kr 4 999,- for Model 3 og Model Y. For Model S og Model X koster liten service kr 4 399,- og stor service kr 5 900,-. Prisene er faste og inkluderer bilvask og mobilitetsgaranti."
+        },
+        {
+          "question": "Hvor lang tid tar en Tesla-service?",
+          "answer": "De fleste servicepakker gjennomføres samme dag, og på mange tjenester kan du vente hos oss mens arbeidet utføres. En EU-kontroll tar normalt 45–60 minutter. Ved mer omfattende diagnostikk eller reparasjon avtaler vi leveringstid på forhånd."
+        },
+        {
+          "question": "Gir dere rabatt til TOCN-medlemmer?",
+          "answer": "Ja. Elbilexpressen er samarbeidspartner for Tesla Owners Club Norway, og medlemmer får avtalte medlemspriser på servicepakker og EU-kontroll. Medlemsprisen på stor service for Model 3 og Model Y er kr 3 999,- mot ordinært kr 4 999,-."
+        }
+      ],
+      "relatedServiceIds": [
+        "eu-kontroll",
+        "diagnostikk",
+        "bremseservice"
+      ],
+      "related": [
+        "tesla-batteri-drivenhet-reparasjon",
+        "elbilverksted-oslo",
+        "prisgaranti-bilverksted-oslo"
+      ],
+      "serviceType": "Tesla service og vedlikehold"
+    },
+    {
+      "slug": "audi-etron-service-oslo",
+      "label": "Audi",
+      "title": "Audi e-tron service og EU-kontroll i Oslo | Elbilexpressen",
+      "metaDescription": "Service, EU-kontroll og diagnostikk på Audi e-tron, Q4 e-tron, Q6 e-tron og e-tron GT i Oslo. EU-kontroll kr 990,-. Prisgaranti. Ring 24 20 00 23.",
+      "h1": "Audi e-tron-service i Oslo – raskt, enkelt og profesjonelt",
+      "intro": "Elbilexpressen utfører service og reparasjoner på Audi e-tron, Q4 e-tron, Q6 e-tron og e-tron GT i Konows gate 67B i Oslo. Vi har Autel-, Bosch- og Launch-diagnoseutstyr, Hunter hjulstillingsutstyr og egen EU-kontrollinje. EU-kontroll koster kr 990,- og diagnostikk starter på kr 990,-.",
+      "keyFacts": [
+        {
+          "label": "Modeller",
+          "value": "e-tron, Q4 e-tron, Q6 e-tron og e-tron GT"
+        },
+        {
+          "label": "EU-kontroll",
+          "value": "Kr 990,-"
+        },
+        {
+          "label": "Diagnostikk",
+          "value": "Fra kr 990,-"
+        },
+        {
+          "label": "Bremseservice",
+          "value": "Fra kr 1 490,-"
+        },
+        {
+          "label": "Sted",
+          "value": "Konows gate 67B, 0196 Oslo"
+        }
+      ],
+      "sections": [
+        {
+          "heading": "Service på Audi e-tron etter produsentens program",
+          "paragraphs": [
+            "Vi utfører og dokumenterer service i henhold til Audis serviceprogram og benytter deler av original eller tilsvarende kvalitet. Det betyr at garantirettighetene dine ivaretas i tråd med gjeldende regler og bilens garantivilkår.",
+            "Audi e-tron er en tung bil med høyt dreiemoment, og det stiller ekstra krav til bremser, hjuloppheng, hjulstilling og dekk. Vi kontrollerer disse punktene som en fast del av servicen."
+          ]
+        },
+        {
+          "heading": "Hva vi gjør på et verkstedbesøk",
+          "paragraphs": [
+            "Et typisk besøk består av service etter intervall, kontroll av slitasjepunkter og et diagnosesøk etter lagrede og aktive feilkoder. Du får en skriftlig oppsummering av funn og anbefalte tiltak, og vi kontakter deg alltid før tilleggsarbeid utføres."
+          ],
+          "bullets": [
+            "Rens og smøring av bremser – fra kr 1 490,-",
+            "Skifte av kupefilter – fra kr 690,-",
+            "AC-service og klimarens – fra kr 1 890,-",
+            "Kontroll av 12-voltsbatteri – fra kr 390,-",
+            "EU-kontroll på egen kontrollinje – kr 990,-",
+            "Hjulstilling med Hunter-utstyr"
+          ]
+        },
+        {
+          "heading": "Høyvolt og ladeproblemer på e-tron",
+          "paragraphs": [
+            "Ved feil på høyvoltbatteri, drivenhet, inverter eller ladesystem utfører vi systematisk diagnostikk før vi anbefaler tiltak. I særlig krevende saker samarbeider vi teknisk med EV Hub, slik at vi kan reparere framfor å skifte mer enn nødvendig."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Kan jeg ta service på Audi e-tron utenfor forhandler?",
+          "answer": "Ja. Vi utfører og dokumenterer service i henhold til Audis serviceprogram og bruker deler av original eller tilsvarende kvalitet. Garantirettighetene dine ivaretas i tråd med gjeldende regler og bilens garantivilkår."
+        },
+        {
+          "question": "Hva koster EU-kontroll på en Audi e-tron i Oslo?",
+          "answer": "EU-kontroll koster kr 990,- hos Elbilexpressen og tar normalt 45–60 minutter. Vi har egen EU-kontrollinje i verkstedet i Konows gate 67B, så du slipper å kjøre til en annen kontrollstasjon."
+        },
+        {
+          "question": "Reparerer dere ladeproblemer på Audi e-tron?",
+          "answer": "Ja. Vi feilsøker ladesystem, ombordlader, høyvoltbatteri og tilhørende styreenheter med profesjonelt diagnoseutstyr. Ved særlig krevende saker samarbeider vi teknisk med EV Hub."
+        }
+      ],
+      "relatedServiceIds": [
+        "eu-kontroll",
+        "diagnostikk",
+        "ac-service"
+      ],
+      "related": [
+        "hoyvolt-reparasjon-elbil-oslo",
+        "elbilverksted-oslo",
+        "dekk-elbil-oslo"
+      ],
+      "serviceType": "Audi e-tron service og vedlikehold"
+    },
+    {
+      "slug": "bmw-elbil-service-oslo",
+      "label": "BMW",
+      "title": "BMW elbil- og hybridservice Oslo – rask time | Elbilexpressen",
+      "metaDescription": "Service, EU-kontroll, diagnostikk og reparasjon av BMW i-serien og ladbare hybrider i Oslo. EU-kontroll kr 990,-. Prisgaranti og rask time i Konows gate.",
+      "h1": "BMW elbil- og hybridservice – rask time i Oslo",
+      "intro": "Elbilexpressen utfører service, EU-kontroll og reparasjoner på BMW i-serien og ladbare BMW-hybrider i Konows gate 67B i Oslo. Diagnostikk starter på kr 990,-, EU-kontroll koster kr 990,- og bremseservice fra kr 1 490,-. Vi er et godkjent kategori 01-verksted med egen EU-kontrollinje.",
+      "keyFacts": [
+        {
+          "label": "Modeller",
+          "value": "BMW i-serien og ladbare hybrider"
+        },
+        {
+          "label": "EU-kontroll",
+          "value": "Kr 990,-"
+        },
+        {
+          "label": "Diagnostikk",
+          "value": "Fra kr 990,-"
+        },
+        {
+          "label": "Bremseservice",
+          "value": "Fra kr 1 490,-"
+        },
+        {
+          "label": "Sted",
+          "value": "Konows gate 67B, 0196 Oslo"
+        }
+      ],
+      "sections": [
+        {
+          "heading": "Både elbil og ladbar hybrid",
+          "paragraphs": [
+            "Ladbare hybrider har både forbrenningsmotor og elektrisk drivlinje, og trenger derfor vedlikehold på begge systemene. Vi håndterer olje- og filterskift, bremser og understell på den mekaniske siden, og diagnostikk på høyvoltbatteri, ladesystem og styreenheter på den elektriske siden.",
+            "På rene elbiler i i-serien er bremseservice særlig viktig. Fordi regenerativ bremsing gjør at de mekaniske bremsene brukes lite, anbefaler vi rens og smøring årlig eller hver 20 000 km."
+          ]
+        },
+        {
+          "heading": "Priser på vanlige BMW-jobber",
+          "bullets": [
+            "EU-kontroll – kr 990,-",
+            "Diagnostikk og feilsøking – fra kr 990,-",
+            "Bremseservice med rens og smøring – fra kr 1 490,-",
+            "Skifte av kupefilter – fra kr 690,-",
+            "AC-service og klimarens – fra kr 1 890,-",
+            "Dekkskift og balansering – fra kr 990,-"
+          ],
+          "paragraphs": [
+            "Har du et skriftlig og sammenlignbart tilbud fra et annet offentlig godkjent verksted, skal vi gi deg en lavere totalpris på samme jobb. Tilbudet må være maksimalt 14 dager gammelt og avklares før arbeidet bestilles."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Tar dere service på BMW i3, i4 og iX i Oslo?",
+          "answer": "Ja. Vi tar imot hele BMW i-serien og ladbare BMW-hybrider ved verkstedet i Konows gate 67B i Oslo. Vi utfører service etter produsentens program og dokumenterer arbeidet, slik at garantien ivaretas."
+        },
+        {
+          "question": "Hvor ofte trenger en BMW elbil bremseservice?",
+          "answer": "Vi anbefaler rens og smøring av bremsene årlig eller hver 20 000 km. Elbiler bruker de mekaniske bremsene lite på grunn av regenerativ bremsing, og da er de mer utsatt for korrosjon og kjørende bremsekalipre."
+        },
+        {
+          "question": "Kan dere feilsøke feilkoder på BMW?",
+          "answer": "Ja. Vi har Autel-, Bosch- og Launch-diagnoseutstyr og utfører systematisk feilsøking fra kr 990,-. Du får en forklaring på hva feilkoden betyr og et prisoverslag før eventuell reparasjon."
+        }
+      ],
+      "relatedServiceIds": [
+        "eu-kontroll",
+        "bremseservice",
+        "diagnostikk"
+      ],
+      "related": [
+        "hybridservice-oslo",
+        "elbilverksted-oslo",
+        "prisgaranti-bilverksted-oslo"
+      ],
+      "serviceType": "BMW elbil- og hybridservice"
+    },
+    {
+      "slug": "volkswagen-id-service-oslo",
+      "label": "Volkswagen",
+      "title": "Volkswagen ID service og EU-kontroll i Oslo | Elbilexpressen",
+      "metaDescription": "Service, EU-kontroll og diagnostikk på Volkswagen ID.3, ID.4, ID.5, ID.Buzz og ladbare hybrider i Oslo. EU-kontroll kr 990,-. Ring 24 20 00 23.",
+      "h1": "Volkswagen ID.-service – enkelt, raskt og profesjonelt",
+      "intro": "Elbilexpressen utfører service og reparasjoner på Volkswagen ID.3, ID.4, ID.5, ID.Buzz og ladbare VW-hybrider i Konows gate 67B i Oslo. EU-kontroll koster kr 990,- på egen kontrollinje, og diagnostikk starter på kr 990,-. Du får normalt time på kort varsel.",
+      "keyFacts": [
+        {
+          "label": "Modeller",
+          "value": "ID.-serien og ladbare hybrider"
+        },
+        {
+          "label": "EU-kontroll",
+          "value": "Kr 990,-"
+        },
+        {
+          "label": "Diagnostikk",
+          "value": "Fra kr 990,-"
+        },
+        {
+          "label": "Kupefilter",
+          "value": "Fra kr 690,-"
+        },
+        {
+          "label": "Sted",
+          "value": "Konows gate 67B, 0196 Oslo"
+        }
+      ],
+      "sections": [
+        {
+          "heading": "Vedlikehold på Volkswagen ID.",
+          "paragraphs": [
+            "ID.-modellene har få bevegelige motordeler, men trenger likevel jevnlig vedlikehold av bremser, kupefilter, dekk, klimaanlegg, understell og elektroniske systemer. Vi følger Volkswagens serviceprogram og dokumenterer alt arbeid.",
+            "Kupefilter bør skiftes hvert 2. år, eller hvert år hvis du hovedsakelig kjører i Oslo sentrum der luftforurensningen er høyere. Bremsene bør renses og smøres årlig eller hver 20 000 km."
+          ]
+        },
+        {
+          "heading": "Programvare, feilkoder og ladefeil",
+          "paragraphs": [
+            "Mange feil på ID.-modellene gir seg utslag i varsellys eller redusert ladeeffekt uten at årsaken er åpenbar. Vi kjører systematisk diagnostikk med profesjonelt utstyr, leser lagrede og aktive feilkoder og gir deg et prisoverslag før noe repareres."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Hvor kan jeg ta service på Volkswagen ID.4 i Oslo?",
+          "answer": "Elbilexpressen i Konows gate 67B utfører service på hele ID.-serien, inkludert ID.3, ID.4, ID.5 og ID.Buzz. Vi er et godkjent kategori 01-verksted med egen EU-kontrollinje og utfører service etter Volkswagens program."
+        },
+        {
+          "question": "Mister jeg nybilgarantien hvis jeg ikke bruker forhandleren?",
+          "answer": "Nei. Du kan fritt velge verksted så lenge servicen utføres etter produsentens serviceprogram med deler av original eller tilsvarende kvalitet, og arbeidet dokumenteres. Vi gjør begge deler som standard."
+        },
+        {
+          "question": "Hvor ofte må kupefilteret skiftes på en elbil?",
+          "answer": "Normalt hvert 2. år. Kjører du mest i Oslo sentrum eller andre områder med høy luftforurensning, anbefaler vi hvert år. Skifte av kupefilter koster fra kr 690,-, og for TOCN-medlemmer er monteringen gratis."
+        }
+      ],
+      "relatedServiceIds": [
+        "eu-kontroll",
+        "kupefilter",
+        "diagnostikk"
+      ],
+      "related": [
+        "elbilverksted-oslo",
+        "hybridservice-oslo",
+        "dekkhotell-oslo"
+      ],
+      "serviceType": "Volkswagen ID. service og vedlikehold"
+    },
+    {
+      "slug": "elbilverksted-oslo",
+      "label": "Verkstedet",
+      "title": "Elbilverksted i Oslo – 3 500 m² på Ekeberg | Elbilexpressen",
+      "metaDescription": "Elbilverksted i Oslo på 3 500 m². Godkjent kategori 01-verksted med egen EU-kontrollinje, Tesla Toolbox 3 og Hunter hjulstilling. Ring 24 20 00 23.",
+      "h1": "Elbilverksted i Oslo – rask time og solid kapasitet",
+      "intro": "Elbilexpressen er et elbilverksted i Konows gate 67B i Oslo, med ca. 3 500 m² verkstedareal. Vi er et godkjent kategori 01-verksted og tar imot alle bilmerker med el- og hybriddrift. Verkstedet har egen EU-kontrollinje, Tesla Toolbox 3, Autel-, Bosch- og Launch-diagnoseutstyr og Hunter hjulstillingsutstyr.",
+      "keyFacts": [
+        {
+          "label": "Verkstedareal",
+          "value": "Ca. 3 500 m²"
+        },
+        {
+          "label": "Godkjenning",
+          "value": "Kategori 01-verksted"
+        },
+        {
+          "label": "EU-kontroll",
+          "value": "Egen kontrollinje – kr 990,-"
+        },
+        {
+          "label": "Diagnoseutstyr",
+          "value": "Tesla Toolbox 3, Autel, Bosch og Launch"
+        },
+        {
+          "label": "Hjulstilling",
+          "value": "Hunter"
+        },
+        {
+          "label": "Adresse",
+          "value": "Konows gate 67B, 0196 Oslo"
+        }
+      ],
+      "sections": [
+        {
+          "heading": "Fagområdene våre",
+          "bullets": [
+            "Diagnose og programmering – systematisk feilsøking med profesjonelt utstyr",
+            "Høyvolt og elektrisk drivlinje – batterisystemer, drivenheter, ladeutstyr og isolasjonsfeil",
+            "Mekanisk arbeid – service, bremser, understell, hjulstilling og klimaanlegg",
+            "EU-kontroll på egen kontrollinje",
+            "Dekk, dekkskift, balansering og dekkhotell"
+          ],
+          "paragraphs": [
+            "Vi tar imot alle bilmerker med el- og hybriddrift, og har særlig erfaring med Tesla, Audi, BMW og Volkswagen. Vi arbeider også med Mercedes-Benz, Porsche, Volvo, Polestar, Hyundai, Kia, Nissan, Škoda, Cupra, MG, BYD og de fleste andre merker."
+          ]
+        },
+        {
+          "heading": "Når jobben krever mer enn vanlig service",
+          "paragraphs": [
+            "EV Hub er vår tekniske samarbeidspartner i krevende saker som gjelder høyvoltbatterier, drivenheter og elektriske drivlinjer. Samarbeidet gir oss tilgang til et sterkt fagmiljø og større kapasitet, mens Elbilexpressen følger opp deg og bilen gjennom hele prosessen.",
+            "Målet er alltid å finne en faglig forsvarlig og kostnadseffektiv løsning – og bare skifte det som faktisk er nødvendig."
+          ]
+        },
+        {
+          "heading": "Slik foregår et verkstedbesøk",
+          "paragraphs": [
+            "Du bestiller time på nett eller ringer 24 20 00 23. Vi bekrefter tidspunktet, utfører arbeidet, kontakter deg før eventuelt tilleggsarbeid og leverer bilen tilbake med dokumentasjon på hva som er gjort. Alle som bestiller service får gratis innvendig rengjøring og utvendig håndvask."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Hvor finner jeg et elbilverksted i Oslo?",
+          "answer": "Elbilexpressen holder til i Konows gate 67B, 0196 Oslo, like ved Ekeberg og Gamlebyen. Verkstedet er på ca. 3 500 m², er godkjent som kategori 01-verksted og tar imot alle bilmerker med el- og hybriddrift."
+        },
+        {
+          "question": "Hvilke bilmerker reparerer dere?",
+          "answer": "Vi tar imot alle bilmerker med el- og hybriddrift. Vi har særlig kompetanse på Tesla, Audi, BMW og Volkswagen, men arbeider også med Mercedes-Benz, Porsche, Volvo, Polestar, Hyundai, Kia, Nissan, MG, BYD og de fleste andre merker."
+        },
+        {
+          "question": "Hvor raskt får jeg time på elbilverksted i Oslo?",
+          "answer": "Vi har korte beslutningsveier og høy kapasitet, og kan normalt tilby time på kort varsel – nesten som drop-in på service. På dekkskift tar vi også imot drop-in."
+        },
+        {
+          "question": "Kan jeg vente mens bilen er på verkstedet?",
+          "answer": "Ja, på mange av tjenestene våre kan du vente hos oss. Ved mer omfattende diagnostikk eller reparasjoner avtaler vi leveringstid på forhånd."
+        }
+      ],
+      "relatedServiceIds": [
+        "diagnostikk",
+        "eu-kontroll",
+        "tilstandskontroll"
+      ],
+      "related": [
+        "elbil-service-oslo",
+        "hoyvolt-reparasjon-elbil-oslo",
+        "om-oss"
+      ],
+      "serviceType": "Verksted for el- og hybridbiler"
+    },
+    {
+      "slug": "hybridservice-oslo",
+      "label": "Hybrid",
+      "title": "Hybridservice Oslo – elbil og ladbar hybrid | Elbilexpressen",
+      "metaDescription": "Service, EU-kontroll og diagnostikk på hybrid og ladbar hybrid i Oslo. Vi vedlikeholder både forbrenningsmotor og høyvoltsystem. Ring 24 20 00 23.",
+      "h1": "Hybridservice i Oslo – rask time og kompetent oppfølging",
+      "intro": "Elbilexpressen utfører service, diagnostikk og reparasjon av hybridbiler og ladbare hybrider i Konows gate 67B i Oslo. En hybrid har to drivlinjer som begge trenger vedlikehold, og vi dekker både det mekaniske og det elektriske under samme tak. EU-kontroll koster kr 990,- og diagnostikk starter på kr 990,-.",
+      "keyFacts": [
+        {
+          "label": "EU-kontroll",
+          "value": "Kr 990,-"
+        },
+        {
+          "label": "Diagnostikk",
+          "value": "Fra kr 990,-"
+        },
+        {
+          "label": "Bremseservice",
+          "value": "Fra kr 1 490,-"
+        },
+        {
+          "label": "AC-service",
+          "value": "Fra kr 1 890,-"
+        },
+        {
+          "label": "Sted",
+          "value": "Konows gate 67B, 0196 Oslo"
+        }
+      ],
+      "sections": [
+        {
+          "heading": "To drivlinjer, to sett vedlikeholdsbehov",
+          "paragraphs": [
+            "En ladbar hybrid har både forbrenningsmotor og elektrisk drivlinje. Motoren trenger olje, filtre og vanlig mekanisk service, mens høyvoltbatteri, ombordlader og styreenheter trenger diagnostikk og kontroll. Vi utfører begge deler på samme verkstedbesøk.",
+            "Fordi hybrider ofte kjører elektrisk på korte turer, brukes forbrenningsmotoren lite og bremsene enda mindre. Det gir egne utfordringer: bremser som korroderer, drivstoff som blir stående og et batteri som sjelden lades helt ut."
+          ]
+        },
+        {
+          "heading": "Dette kontrollerer vi på en hybridservice",
+          "bullets": [
+            "Rens og smøring av bremser, som brukes lite ved regenerativ bremsing",
+            "Kontroll og skifte av kupefilter",
+            "Funksjonskontroll av klimaanlegg og AC-service ved behov",
+            "Kontroll av 12-voltsbatteri – typisk levetid 4–6 år",
+            "Diagnosesøk etter lagrede og aktive feilkoder i begge drivlinjer",
+            "Kontroll av dekk, hjulstilling og understell"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Trenger en ladbar hybrid mer service enn en elbil?",
+          "answer": "Ja, som regel. En ladbar hybrid har både forbrenningsmotor og elektrisk drivlinje, og begge trenger vedlikehold. Motoren krever olje og filtre i tillegg til det vanlige vedlikeholdet av bremser, dekk, klimaanlegg og elektronikk."
+        },
+        {
+          "question": "Hvor kan jeg ta service på hybridbil i Oslo?",
+          "answer": "Elbilexpressen i Konows gate 67B utfører service på hybrider og ladbare hybrider fra alle bilmerker. Vi er et godkjent kategori 01-verksted med egen EU-kontrollinje og kompetanse på både mekaniske systemer og høyvolt."
+        },
+        {
+          "question": "Hvorfor ruster bremsene på en hybrid?",
+          "answer": "Fordi regenerativ bremsing gjør at de mekaniske bremsene brukes lite, får de ikke den naturlige rensingen som oppstår ved vanlig bremsing. Vi anbefaler rens og smøring årlig eller hver 20 000 km, til en pris fra kr 1 490,-."
+        }
+      ],
+      "relatedServiceIds": [
+        "bremseservice",
+        "ac-service",
+        "12v-batteri"
+      ],
+      "related": [
+        "bmw-elbil-service-oslo",
+        "elbilverksted-oslo",
+        "elbil-service-oslo"
+      ],
+      "serviceType": "Hybridservice og vedlikehold"
+    },
+    {
+      "slug": "hoyvolt-reparasjon-elbil-oslo",
+      "label": "Høyvolt",
+      "title": "Høyvolt- og batterireparasjon elbil Oslo | Elbilexpressen",
+      "metaDescription": "Diagnostikk og reparasjon av høyvoltbatteri, drivenhet, inverter, ladesystem og isolasjonsfeil på elbil i Oslo. Teknisk samarbeid med EV Hub.",
+      "h1": "Reparasjon av høyvoltsystemer – finn feilen før du skifter delen",
+      "intro": "Elbilexpressen utfører diagnostikk og reparasjon av høyvoltsystemer på elbil i Konows gate 67B i Oslo. Vi feilsøker høyvoltbatteri, drivenhet, inverter, ladesystem og isolasjonsfeil, og gir prisoverslag etter innledende diagnostikk. I særlig krevende saker samarbeider vi teknisk med EV Hub.",
+      "keyFacts": [
+        {
+          "label": "Diagnostikk",
+          "value": "Fra kr 990,-"
+        },
+        {
+          "label": "Reparasjon",
+          "value": "Prisoverslag gis etter innledende diagnostikk"
+        },
+        {
+          "label": "Teknisk partner",
+          "value": "EV Hub"
+        },
+        {
+          "label": "Omfatter",
+          "value": "Batteri, drivenhet, inverter, ladesystem, isolasjonsfeil"
+        },
+        {
+          "label": "Sted",
+          "value": "Konows gate 67B, 0196 Oslo"
+        }
+      ],
+      "sections": [
+        {
+          "heading": "Reparasjon framfor utskifting",
+          "paragraphs": [
+            "Et høyvoltbatteri er den dyreste komponenten i en elbil, og feil i batteripakken betyr ikke automatisk at hele pakken må byttes. Vi starter alltid med systematisk diagnostikk for å finne ut hva som faktisk feiler, og anbefaler deretter den løsningen som er faglig forsvarlig og mest kostnadseffektiv.",
+            "Målet er å bare skifte det som faktisk er nødvendig. Du får et prisoverslag før noe arbeid settes i gang."
+          ]
+        },
+        {
+          "heading": "Hva vi feilsøker",
+          "bullets": [
+            "Høyvoltbatteri – kapasitet, celleavvik og feilkoder",
+            "Drivenhet og elektrisk drivlinje",
+            "Inverter og styreenheter",
+            "Ladesystem og ombordlader – hjemmelading og hurtiglading",
+            "Isolasjonsfeil i høyvoltkretsen",
+            "Klimakomponenter knyttet til batterikjøling"
+          ]
+        },
+        {
+          "heading": "Samarbeidet med EV Hub",
+          "paragraphs": [
+            "EV Hub er en sentral teknisk samarbeidspartner for oss i krevende saker knyttet til høyvoltbatterier, drivenheter og elektriske drivlinjer. Samarbeidet gir oss tilgang til et sterkt fagmiljø og større kapasitet når bilen trenger mer enn vanlig service.",
+            "For deg som kunde betyr det én kontaktperson og én kundereise: Elbilexpressen følger opp deg og bilen gjennom hele prosessen og koordinerer samarbeidet ved behov."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Kan et høyvoltbatteri repareres, eller må det byttes?",
+          "answer": "Mange batterifeil kan repareres uten å bytte hele pakken. Vi starter med systematisk diagnostikk for å finne den faktiske årsaken, og anbefaler deretter den løsningen som er faglig forsvarlig og mest kostnadseffektiv. Du får et prisoverslag før arbeidet settes i gang."
+        },
+        {
+          "question": "Hva koster det å feilsøke en høyvoltfeil i Oslo?",
+          "answer": "Diagnostikk starter på kr 990,-. Ved mer omfattende feilsøking på høyvoltsystemer avtaler vi omfang og pris på forhånd, og du får et prisoverslag på reparasjonen etter at den innledende diagnostikken er gjort."
+        },
+        {
+          "question": "Bilen lader ikke – hva gjør jeg?",
+          "answer": "Ta kontakt på 24 20 00 23 og beskriv om feilen oppstår ved hjemmelading, AC-lading eller hurtiglading. Vi feilsøker ombordlader, ladeport, høyvoltbatteri og tilhørende styreenheter og finner ut om feilen ligger i bilen eller i ladeutstyret."
+        },
+        {
+          "question": "Er det farlig å jobbe med høyvoltsystemer?",
+          "answer": "Arbeid på høyvoltsystemer krever egen kompetanse, verneutstyr og rutiner, og skal aldri utføres av ufaglærte. Vi er et godkjent kategori 01-verksted med kompetanse på batterisystemer, drivenheter, ladeutstyr og isolasjonsfeil."
+        }
+      ],
+      "relatedServiceIds": [
+        "hoyvolt-reparasjon",
+        "diagnostikk",
+        "tilstandskontroll"
+      ],
+      "related": [
+        "tesla-batteri-drivenhet-reparasjon",
+        "elbilverksted-oslo",
+        "elbil-service-oslo"
+      ],
+      "serviceType": "Reparasjon av høyvoltsystemer på elbil"
+    },
+    {
+      "slug": "tesla-batteri-drivenhet-reparasjon",
+      "label": "Tesla batteri",
+      "title": "Tesla batteri- og drivenhetsreparasjon Oslo | Elbilexpressen",
+      "metaDescription": "Feilsøking og reparasjon av Tesla-batteri, drivenhet, ladesystem og høyvoltkomponenter i Oslo. Tesla Toolbox 3 og teknisk samarbeid med EV Hub.",
+      "h1": "Tesla-batteri og drivenhet – reparasjon når det er mulig",
+      "intro": "Elbilexpressen feilsøker og reparerer Tesla-batterier, drivenheter, ladesystemer og øvrige høyvoltkomponenter i Konows gate 67B i Oslo. Vi bruker Tesla Toolbox 3 og starter alltid med diagnostikk fra kr 990,- for å finne den faktiske årsaken. I krevende saker samarbeider vi teknisk med EV Hub.",
+      "keyFacts": [
+        {
+          "label": "Modeller",
+          "value": "Model 3, Model Y, Model S og Model X"
+        },
+        {
+          "label": "Diagnostikk",
+          "value": "Fra kr 990,- (kr 790,- for TOCN-medlemmer)"
+        },
+        {
+          "label": "Utstyr",
+          "value": "Tesla Toolbox 3"
+        },
+        {
+          "label": "Reparasjon",
+          "value": "Prisoverslag etter innledende diagnostikk"
+        },
+        {
+          "label": "Sted",
+          "value": "Konows gate 67B, 0196 Oslo"
+        }
+      ],
+      "sections": [
+        {
+          "heading": "Vanlige feil vi ser på Tesla",
+          "bullets": [
+            "Redusert rekkevidde og avvik i batterikapasitet",
+            "Feil på drivenhet, ofte med ulyd eller redusert effekt",
+            "Bilen lader ikke, eller lader med redusert effekt",
+            "Isolasjonsfeil i høyvoltkretsen",
+            "Feil på kjølesystemet for batteri og drivlinje",
+            "Lagrede feilkoder uten synlige symptomer"
+          ],
+          "paragraphs": [
+            "Vi leser ut både lagrede og aktive feilkoder med Tesla Toolbox 3 og sammenholder dem med målinger på bilen. Det gjør at vi kan skille mellom en faktisk komponentfeil og en følgefeil fra noe annet."
+          ]
+        },
+        {
+          "heading": "Hva koster det?",
+          "paragraphs": [
+            "Diagnostikk starter på kr 990,-, og kr 790,- for TOCN-medlemmer. Selve reparasjonen prises etter at vi vet hva som feiler: du får et prisoverslag før arbeidet bestilles, og vi kontakter deg hvis omfanget endrer seg underveis.",
+            "Har du fått et skriftlig tilbud på samme jobb fra et annet offentlig godkjent verksted, omfattes arbeidet av prisgarantien vår så lenge tilbudet er sammenlignbart og ikke eldre enn 14 dager."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Reparerer dere Tesla-batterier i Oslo?",
+          "answer": "Ja. Vi feilsøker og reparerer høyvoltbatterier, drivenheter og ladesystemer på Tesla ved verkstedet i Konows gate 67B i Oslo. I særlig krevende saker samarbeider vi teknisk med EV Hub, slik at flere feil kan repareres framfor at hele batteripakken byttes."
+        },
+        {
+          "question": "Hvorfor har Teslaen min mistet rekkevidde?",
+          "answer": "Redusert rekkevidde kan skyldes normal aldring av batteriet, men også celleavvik, feil i batteristyringen, kjøleproblemer eller kjøremønster og temperatur. Vi måler faktisk kapasitet og leser ut feilkoder, slik at du får vite om det er en feil eller normal degradering."
+        },
+        {
+          "question": "Kan dere lese av batterihelsen på Tesla?",
+          "answer": "Ja. Vi kjører en tilstandskontroll med Tesla Toolbox 3 og gir deg en oversikt over batteriets tilstand, feilkoder og eventuelle avvik. Dette er nyttig både ved feilsøking og før kjøp eller salg av bruktbil."
+        }
+      ],
+      "relatedServiceIds": [
+        "hoyvolt-reparasjon",
+        "tilstandskontroll",
+        "diagnostikk"
+      ],
+      "related": [
+        "tesla-service-oslo",
+        "hoyvolt-reparasjon-elbil-oslo",
+        "elbilverksted-oslo"
+      ],
+      "serviceType": "Reparasjon av Tesla-batteri og drivenhet"
+    },
+    {
+      "slug": "henting-levering-bilverksted-oslo",
+      "label": "Henting og levering",
+      "title": "Henting og levering av bilen i Oslo | Elbilexpressen",
+      "metaDescription": "Vi henter elbilen hjemme eller på jobb i Oslo, utfører arbeidet og leverer den tilbake. Betalt tilleggstjeneste, pris etter avstand og avtale.",
+      "h1": "Vi henter bilen, utfører jobben og leverer den tilbake",
+      "intro": "Elbilexpressen kan hente bilen din hjemme eller på arbeidsplassen i Oslo, utføre verkstedarbeidet og levere den tilbake når jobben er ferdig. Dette er en betalt tilleggstjeneste der prisen beregnes ut fra avstand og avtales med deg på forhånd. Tjenesten bestilles sammen med verkstedtimen.",
+      "keyFacts": [
+        {
+          "label": "Pris",
+          "value": "Tilleggstjeneste – beregnes etter avstand og avtales på forhånd"
+        },
+        {
+          "label": "Område",
+          "value": "Oslo"
+        },
+        {
+          "label": "Bestilling",
+          "value": "Avtales sammen med verkstedtimen"
+        },
+        {
+          "label": "Sted",
+          "value": "Konows gate 67B, 0196 Oslo"
+        }
+      ],
+      "sections": [
+        {
+          "heading": "Slik fungerer det",
+          "bullets": [
+            "Du bestiller verkstedtime og oppgir at du ønsker henting og levering",
+            "Vi avtaler hentested, tidspunkt og pris på forhånd",
+            "Vi henter bilen hjemme hos deg eller på arbeidsplassen",
+            "Arbeidet utføres, og vi kontakter deg før eventuelt tilleggsarbeid",
+            "Bilen leveres tilbake med dokumentasjon på hva som er gjort"
+          ]
+        },
+        {
+          "heading": "Hvem passer dette for?",
+          "paragraphs": [
+            "Tjenesten passer godt hvis du har en travel arbeidsdag, ikke har mulighet til å levere bilen selv, eller skal ha utført et lengre arbeid som diagnostikk eller reparasjon. Alle som bestiller service får i tillegg gratis innvendig rengjøring og utvendig håndvask, slik at bilen kommer tilbake ferdig vasket."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Kan dere hente elbilen min i Oslo?",
+          "answer": "Ja. Etter avtale henter vi bilen hjemme hos deg eller på arbeidsplassen i Oslo og leverer den tilbake når verkstedjobben er ferdig. Dette er en betalt tilleggstjeneste, og prisen beregnes ut fra avstand og avtales på forhånd."
+        },
+        {
+          "question": "Hva koster henting og levering?",
+          "answer": "Prisen beregnes ut fra avstanden mellom hentestedet og verkstedet i Konows gate 67B, og avtales med deg før timen bekreftes. Ring 24 20 00 23 for et konkret pristilbud."
+        },
+        {
+          "question": "Får jeg bilen vasket når dere leverer den tilbake?",
+          "answer": "Ja, hvis du har bestilt service. Alle servicekunder får gratis innvendig rengjøring og utvendig håndvask. Bestiller du bare bilvask uten service, koster det kr 690,-."
+        }
+      ],
+      "relatedServiceIds": [
+        "henting-levering",
+        "bilvask"
+      ],
+      "related": [
+        "elbil-service-oslo",
+        "elbilverksted-oslo",
+        "mobilitetsgaranti-elbilservice"
+      ],
+      "serviceType": "Henting og levering av bil til verksted"
+    },
+    {
+      "slug": "mobilitetsgaranti-elbilservice",
+      "label": "Mobilitetsgaranti",
+      "title": "Mobilitetsgaranti 12 mnd ved elbilservice | Elbilexpressen",
+      "metaDescription": "Få 12 måneders mobilitetsgaranti uten egenandel ved kvalifiserende service i Oslo. Døgnåpen assistanse i hele Norden ved driftsstans og tomt batteri.",
+      "h1": "Service hos oss gir trygghet på veien i 12 måneder",
+      "intro": "Ved kvalifiserende service hos Elbilexpressen får du 12 måneders mobilitetsgaranti uten egenandel. Ordningen gir døgnåpen veihjelp i hele Norden ved driftsstans, elektrisk feil, punktering, starthjelp, utelåsing og tomt fremdriftsbatteri. Garantien registreres i forbindelse med servicen og koster ingenting ekstra.",
+      "keyFacts": [
+        {
+          "label": "Varighet",
+          "value": "12 måneder fra servicedato"
+        },
+        {
+          "label": "Egenandel",
+          "value": "Ingen"
+        },
+        {
+          "label": "Pris",
+          "value": "Inkludert ved kvalifiserende service"
+        },
+        {
+          "label": "Dekningsområde",
+          "value": "Hele Norden, døgnåpent"
+        }
+      ],
+      "sections": [
+        {
+          "heading": "Hva dekkes?",
+          "bullets": [
+            "Driftsstans og elektrisk feil",
+            "Tomt fremdriftsbatteri",
+            "Punktering",
+            "Starthjelp ved flatt 12-voltsbatteri",
+            "Utelåsing"
+          ],
+          "paragraphs": [
+            "Assistansen er døgnåpen og gjelder i hele Norden. Mobilitetsgarantien registreres i forbindelse med servicen og gjelder etter ordningens vilkår."
+          ]
+        },
+        {
+          "heading": "Hvilke tjenester kvalifiserer?",
+          "paragraphs": [
+            "Mobilitetsgarantien følger med kvalifiserende service, blant annet Tesla liten og stor service. Liten service for Model 3 og Model Y koster kr 3 490,- og stor service kr 4 999,-, og begge inkluderer mobilitetsgaranti, gratis innvendig rengjøring og utvendig håndvask.",
+            "Er du usikker på om jobben du skal bestille kvalifiserer, ring oss på 24 20 00 23 før du bestiller time."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Hva koster mobilitetsgarantien?",
+          "answer": "Ingenting ekstra. Mobilitetsgarantien er inkludert uten tillegg i prisen ved kvalifiserende service hos Elbilexpressen, og den har ingen egenandel."
+        },
+        {
+          "question": "Gjelder mobilitetsgarantien hvis jeg går tom for strøm?",
+          "answer": "Ja. Tomt fremdriftsbatteri er blant hendelsene som dekkes, sammen med driftsstans, elektrisk feil, punktering, starthjelp og utelåsing. Assistansen er døgnåpen i hele Norden."
+        },
+        {
+          "question": "Hvor lenge varer garantien?",
+          "answer": "Mobilitetsgarantien varer i 12 måneder fra servicedatoen og registreres i forbindelse med servicen. Tar du service hos oss igjen året etter, fornyes den."
+        }
+      ],
+      "relatedServiceIds": [
+        "mobilitetsgaranti"
+      ],
+      "related": [
+        "tesla-service-oslo",
+        "elbil-service-oslo",
+        "prisgaranti-bilverksted-oslo"
+      ],
+      "serviceType": "Mobilitetsgaranti ved service"
+    },
+    {
+      "slug": "prisgaranti-bilverksted-oslo",
+      "label": "Prisgaranti",
+      "title": "Prisgaranti hos bilverksted i Oslo – vi slår tilbudet",
+      "metaDescription": "Send oss et skriftlig, sammenlignbart tilbud fra et godkjent verksted i Norge, maks 14 dager gammelt, så gir vi deg en lavere totalpris på samme jobb.",
+      "h1": "Prisgaranti – vi slår sammenlignbare verkstedtilbud",
+      "intro": "Har du et skriftlig tilbud fra et annet registrert og offentlig godkjent verksted i Norge, skal Elbilexpressen gi deg en lavere totalpris på nøyaktig samme jobb. Tilbudet må være spesifisert, maksimalt 14 dager gammelt og avklares før arbeidet bestilles. Prisgarantien gjelder både service, reparasjon og dekk.",
+      "keyFacts": [
+        {
+          "label": "Krav til tilbud",
+          "value": "Skriftlig og spesifisert"
+        },
+        {
+          "label": "Maks alder",
+          "value": "14 dager"
+        },
+        {
+          "label": "Krav til verksted",
+          "value": "Registrert og offentlig godkjent i Norge"
+        },
+        {
+          "label": "Frist",
+          "value": "Må avklares før arbeidet bestilles"
+        }
+      ],
+      "sections": [
+        {
+          "heading": "Slik fungerer prisgarantien",
+          "paragraphs": [
+            "Først sender du oss et skriftlig tilbud som viser registreringsnummer, arbeidsomfang, deler og totalpris. Deretter sammenligner vi samme jobb: arbeidstid, deler, væsker, avgifter, garanti og øvrig innhold må være direkte sammenlignbart. Når vilkårene er oppfylt, gir vi deg et tilbud med lavere totalpris på den samme jobben."
+          ]
+        },
+        {
+          "heading": "Vilkår",
+          "bullets": [
+            "Konkurrentens tilbud må være skriftlig, spesifisert og ikke eldre enn 14 dager",
+            "Verkstedet må være registrert og offentlig godkjent i Norge",
+            "Prisene må være oppgitt inkludert merverdiavgift og øvrige gebyrer",
+            "Arbeidsomfanget og kvaliteten på delene må være sammenlignbare",
+            "Prisgarantien må avklares før bestilling eller godkjenning av arbeidet",
+            "Garantien gjelder ikke åpenbare prisfeil, privat arbeid, kundeleverte eller brukte deler, forsikringsoppdrag eller garantiarbeid",
+            "Særskilte klubb-, medlems- og kampanjepriser vurderes separat"
+          ]
+        },
+        {
+          "heading": "Gjelder prisgarantien på dekk?",
+          "paragraphs": [
+            "Ja. Har du et spesifisert tilbud på identiske dekk ferdig montert, skal vi gi deg en lavere totalpris når vilkårene er oppfylt. Sammenligningen gjelder samme dekkmerke, samme dimensjon og samme arbeidsomfang."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Hvordan bruker jeg prisgarantien?",
+          "answer": "Send oss det skriftlige tilbudet fra det andre verkstedet på kontakt@elbilexpressen.no før du bestiller arbeidet. Tilbudet må vise registreringsnummer, arbeidsomfang, deler og totalpris, og være maksimalt 14 dager gammelt."
+        },
+        {
+          "question": "Hva om jeg allerede har bestilt jobben et annet sted?",
+          "answer": "Prisgarantien må avklares før arbeidet bestilles eller godkjennes. Har du allerede bestilt, kan vi fortsatt gi deg et tilbud, men det faller utenfor selve prisgarantien."
+        },
+        {
+          "question": "Gjelder garantien mot alle verksteder?",
+          "answer": "Den gjelder mot registrerte og offentlig godkjente verksteder i Norge. Åpenbare prisfeil, privat arbeid, kundeleverte eller brukte deler, forsikringsoppdrag og garantiarbeid omfattes ikke, og særskilte klubb-, medlems- og kampanjepriser vurderes separat."
+        }
+      ],
+      "relatedServiceIds": [],
+      "related": [
+        "elbil-service-oslo",
+        "dekk-elbil-oslo",
+        "tesla-service-oslo"
+      ],
+      "serviceType": "Prisgaranti på verkstedarbeid"
+    },
+    {
+      "slug": "dekk-elbil-oslo",
+      "label": "Dekk",
+      "title": "Dekk til elbil i Oslo – fra kr 990,- montert | Elbilexpressen",
+      "metaDescription": "Sommer- og vinterdekk til elbil i Oslo. Montering, balansering og TPMS-kontroll fra kr 990,-. Pirelli, Nokian, Continental og Goodyear. Drop-in.",
+      "h1": "Dekk til elbil – riktig valg til riktig pris",
+      "intro": "Elbilexpressen selger og monterer sommer- og vinterdekk til el- og hybridbiler i Konows gate 67B i Oslo. Dekkskift med balansering koster fra kr 990,-, og vi fører Pirelli, Nokian Tyres, Continental, Goodyear og Dynamo i flere prisklasser. Du kan komme på drop-in eller bestille time.",
+      "keyFacts": [
+        {
+          "label": "Dekkskift og balansering",
+          "value": "Fra kr 990,- (kr 790,- for TOCN-medlemmer)"
+        },
+        {
+          "label": "Dekkmerker",
+          "value": "Pirelli, Nokian Tyres, Continental, Goodyear og Dynamo"
+        },
+        {
+          "label": "Bestilling",
+          "value": "Drop-in eller timebestilling"
+        },
+        {
+          "label": "Prisgaranti",
+          "value": "Gjelder identiske dekk ferdig montert"
+        },
+        {
+          "label": "Sted",
+          "value": "Konows gate 67B, 0196 Oslo"
+        }
+      ],
+      "sections": [
+        {
+          "heading": "Hvorfor trenger elbiler egne dekk?",
+          "paragraphs": [
+            "En elbil er tyngre enn en tilsvarende fossilbil og leverer maksimalt dreiemoment fra start. Det stiller høyere krav til dekkets bæreevne og slitestyrke, og feil belastningsindeks kan gi raskere slitasje og dårligere sikkerhet.",
+            "Rullemotstand og støynivå betyr også mer på elbil enn på fossilbil: lav rullemotstand gir lengre rekkevidde, og fordi elbilen selv er stillegående blir dekkstøy mer merkbart i kupeen."
+          ]
+        },
+        {
+          "heading": "Dette gjør vi ved dekkskift",
+          "bullets": [
+            "Montering og balansering av hjul",
+            "Kontroll av TPMS – dekktrykksensorer",
+            "Kontroll av mønsterdybde og ujevn slitasje",
+            "Vurdering av behov for hjulstilling, med Hunter-utstyr",
+            "Justering av lufttrykk til bilens spesifikasjon"
+          ]
+        },
+        {
+          "heading": "Prisgaranti på dekk",
+          "paragraphs": [
+            "Har du et spesifisert tilbud på identiske dekk ferdig montert fra et annet seriøst verksted, skal vi gi deg en lavere totalpris når vilkårene er oppfylt. Tilbudet må være skriftlig og ikke eldre enn 14 dager."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Hva koster dekkskift på elbil i Oslo?",
+          "answer": "Dekkskift med balansering koster fra kr 990,- hos Elbilexpressen, og fra kr 790,- for TOCN-medlemmer. Du kan komme på drop-in i Konows gate 67B eller bestille time på forhånd."
+        },
+        {
+          "question": "Trenger elbilen min spesielle dekk?",
+          "answer": "Elbiler er tyngre og har høyere dreiemoment enn tilsvarende fossilbiler, så dekket må ha riktig belastningsindeks og slitestyrke. Lav rullemotstand gir lengre rekkevidde, og lavt støynivå merkes godt fordi bilen ellers er stillegående."
+        },
+        {
+          "question": "Hvilke dekkmerker har dere?",
+          "answer": "Vi tilbyr dekk i flere prisklasser fra blant annet Pirelli, Nokian Tyres, Continental, Goodyear og Dynamo. Utvalg og pris avhenger av dimensjon og tilgjengelighet – ring 24 20 00 23 for et konkret tilbud på din dimensjon."
+        },
+        {
+          "question": "Kan jeg komme på drop-in for dekkskift?",
+          "answer": "Ja. Du kan komme innom Konows gate 67B når det passer deg, eller bestille time for en mest mulig effektiv gjennomføring. I høysesong går det raskest med avtalt tid."
+        }
+      ],
+      "relatedServiceIds": [
+        "dekk-dekkskift-balansering",
+        "dekkhotell"
+      ],
+      "related": [
+        "dekkhotell-oslo",
+        "prisgaranti-bilverksted-oslo",
+        "elbil-service-oslo"
+      ],
+      "serviceType": "Dekksalg, dekkskift og balansering"
+    },
+    {
+      "slug": "dekkhotell-oslo",
+      "label": "Dekkhotell",
+      "title": "Dekkhotell Oslo – kr 1 390,- med dekkskift | Elbilexpressen",
+      "metaDescription": "Dekkhotell i Oslo til kr 1 390,- per sesong, inkludert oppbevaring av fire hjul, kontroll og dekkskift. Kapasitet til ca. 3 000 kunder. Ring 24 20 00 23.",
+      "h1": "Dekkhotell i Oslo – trygg lagring og dekkskift inkludert",
+      "intro": "Dekkhotell hos Elbilexpressen koster kr 1 390,- per sesong og inkluderer oppbevaring av fire komplette hjul, kontroll og selve dekkskiftet. Vi har kapasitet til rundt 3 000 dekkhotellkunder ved anlegget i Konows gate 67B i Oslo. TOCN-medlemmer får rabattert pris.",
+      "keyFacts": [
+        {
+          "label": "Pris",
+          "value": "Kr 1 390,- per sesong"
+        },
+        {
+          "label": "Inkludert",
+          "value": "Oppbevaring av fire hjul, kontroll og dekkskift"
+        },
+        {
+          "label": "Kapasitet",
+          "value": "Ca. 3 000 kunder"
+        },
+        {
+          "label": "TOCN-medlemmer",
+          "value": "Rabattert pris – kontakt oss"
+        },
+        {
+          "label": "Sted",
+          "value": "Konows gate 67B, 0196 Oslo"
+        }
+      ],
+      "sections": [
+        {
+          "heading": "Hva inngår i dekkhotellet?",
+          "bullets": [
+            "Trygg oppbevaring av fire komplette hjul gjennom sesongen",
+            "Kontroll av mønsterdybde og slitasje",
+            "Selve dekkskiftet ved sesongskifte",
+            "Balansering og TPMS-kontroll ved behov",
+            "Beskjed hvis dekkene nærmer seg utskifting"
+          ]
+        },
+        {
+          "heading": "Slik slipper du dekkjobben hjemme",
+          "paragraphs": [
+            "Du kjører inn til Konows gate 67B, vi skifter til sesongens hjul og lagrer de andre til neste sesong. Du slipper å frakte fire hjul i bilen, finne lagringsplass hjemme og gjøre jobben selv – og prisen på kr 1 390,- dekker både lagring og dekkskift.",
+            "Bor du i leilighet i Oslo uten bod eller garasje, er dette normalt både rimeligere og enklere enn å løse lagringen selv."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Hva koster dekkhotell i Oslo?",
+          "answer": "Dekkhotell hos Elbilexpressen koster kr 1 390,- per sesong. Prisen inkluderer trygg oppbevaring av fire komplette hjul, kontroll og selve dekkskiftet. TOCN-medlemmer får rabattert pris."
+        },
+        {
+          "question": "Er dekkskiftet inkludert i prisen?",
+          "answer": "Ja. Kr 1 390,- per sesong dekker både oppbevaring av fire komplette hjul, kontroll av dekkene og selve dekkskiftet ved sesongskifte."
+        },
+        {
+          "question": "Har dere ledig plass på dekkhotellet?",
+          "answer": "Anlegget i Konows gate 67B har kapasitet til rundt 3 000 dekkhotellkunder. Kapasiteten er størst utenom de travleste ukene ved sesongskifte, så ta kontakt på 24 20 00 23 i god tid før skiftet."
+        }
+      ],
+      "relatedServiceIds": [
+        "dekkhotell",
+        "dekk-dekkskift-balansering"
+      ],
+      "related": [
+        "dekk-elbil-oslo",
+        "elbil-service-oslo",
+        "elbilverksted-oslo"
+      ],
+      "serviceType": "Dekkhotell og sesonglagring av dekk"
+    }
+  ],
+  "locationPage": {
+    "slug": "elbil-service-oslo",
+    "label": "Elbil service Oslo",
+    "title": "Elbil service Oslo – rask time og fastpriser | Elbilexpressen",
+    "metaDescription": "Elbil service i Oslo hos Elbilexpressen, Konows gate 67B. EU-kontroll kr 990,-, diagnostikk fra kr 990,-, Tesla-service fra kr 3 490,-. Ring 24 20 00 23.",
+    "h1": "Elbil service i Oslo – Konows gate 67B",
+    "intro": "Elbilexpressen er et verksted for el- og hybridbiler i Konows gate 67B, 0196 Oslo. Vi utfører service, EU-kontroll, diagnostikk, bremse- og dekkarbeid samt reparasjon av høyvoltsystemer, og du får normalt time på kort varsel. Ring 24 20 00 23 eller bestill time på nett.",
+    "napTitle": "Kontaktinformasjon",
+    "hoursTitle": "Åpningstider",
+    "directionsTitle": "Slik finner du fram",
+    "directions": [
+      "Verkstedet ligger i Konows gate 67B i Gamlebyen, rett ved foten av Ekeberg og få minutter fra E6 og Ekebergtunnelen.",
+      "Kommer du fra sentrum, kjører du Schweigaards gate eller Bispegata mot Ekeberg og følger Konows gate østover. Det er parkering ved verkstedet.",
+      "Med kollektivtransport kommer du enklest med buss eller trikk til Gamlebyen eller Ekebergparken, og går de siste minuttene."
+    ],
+    "areasTitle": "Serviceområde: Oslo",
+    "areasIntro": "Vi har ett verksted, og det ligger i Oslo. Kundene våre kommer fra hele byen – disse bydelene og nabolagene er blant dem vi oftest hjelper:",
+    "areasNote": "Bor du et annet sted i Oslo, er du selvsagt like velkommen. Vi kan også hente og levere bilen etter avtale.",
+    "highlightsTitle": "Hvorfor velge Elbilexpressen i Oslo?",
+    "highlights": [
+      {
+        "title": "Rask time",
+        "description": "Korte beslutningsveier og høy kapasitet gjør at du normalt får time på kort varsel – nesten som drop-in på service."
+      },
+      {
+        "title": "Faste priser",
+        "description": "EU-kontroll kr 990,-, diagnostikk fra kr 990,-, bremseservice fra kr 1 490,- og Tesla-servicepakker fra kr 3 490,-."
+      },
+      {
+        "title": "Prisgaranti",
+        "description": "Har du et sammenlignbart skriftlig tilbud fra et godkjent verksted, maks 14 dager gammelt, gir vi deg en lavere totalpris."
+      },
+      {
+        "title": "Alt på ett sted",
+        "description": "Service, EU-kontroll på egen kontrollinje, høyvoltreparasjon, dekk og dekkhotell i samme 3 500 m² store verksted."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Hvor kan jeg reparere elbilen min i Oslo?",
+        "answer": "Elbilexpressen i Konows gate 67B, 0196 Oslo, er et godkjent kategori 01-verksted for el- og hybridbiler. Vi utfører service, EU-kontroll, diagnostikk og reparasjon av høyvoltsystemer på alle bilmerker med el- og hybriddrift. Ring 24 20 00 23 for time."
+      },
+      {
+        "question": "Hva koster elbil-service i Oslo?",
+        "answer": "Hos Elbilexpressen koster EU-kontroll kr 990,-, diagnostikk fra kr 990,-, bremseservice fra kr 1 490,- og skifte av kupefilter fra kr 690,-. Tesla-servicepakker starter på kr 3 490,- for Model 3 og Model Y."
+      },
+      {
+        "question": "Hvor lang tid tar elbil-service i Oslo?",
+        "answer": "De fleste servicejobber gjennomføres samme dag, og på mange tjenester kan du vente hos oss mens arbeidet utføres. En EU-kontroll tar normalt 45–60 minutter, mens diagnostikk og større reparasjoner krever mer tid og avtales på forhånd."
+      },
+      {
+        "question": "Når har dere åpent?",
+        "answer": "Verkstedet i Konows gate 67B har åpent mandag til fredag 08:00–17:00 og lørdag 10:00–15:00. Søndag er det stengt. Du kan bestille time på nett hele døgnet."
+      },
+      {
+        "question": "Hvilke deler av Oslo betjener dere?",
+        "answer": "Vi tar imot kunder fra hele Oslo, blant annet Sentrum, Gamlebyen, Grünerløkka, Frogner, Majorstuen, Nordstrand, Manglerud, Helsfyr, Løren, Grorud og Ullern. Vi kan også hente og levere bilen etter avtale mot et tillegg som beregnes ut fra avstand."
+      },
+      {
+        "question": "Må jeg bestille time, eller kan jeg komme på drop-in?",
+        "answer": "Service og reparasjoner krever avtalt time, men på dekkskift tar vi også imot drop-in i Konows gate 67B. Ring 24 20 00 23 eller bruk timebestillingen på nett."
+      }
+    ]
+  },
+  "aboutPage": {
+    "slug": "om-oss",
+    "label": "Om oss",
+    "title": "Om Elbilexpressen – elbilverksted i Konows gate, Oslo",
+    "metaDescription": "Elbilexpressen er et elbilverksted på 3 500 m² i Konows gate 67B i Oslo. Godkjent kategori 01-verksted, TOCN-partner og søsterselskap av Oljeskiftexpressen.",
+    "h1": "Om Elbilexpressen",
+    "intro": "Elbilexpressen er et verksted for el- og hybridbiler i Konows gate 67B, 0196 Oslo. Verkstedet er på ca. 3 500 m², er godkjent som kategori 01-verksted og har egen EU-kontrollinje. Vi er søsterselskap til Oljeskiftexpressen og samarbeidspartner for både EV Hub og Tesla Owners Club Norway.",
+    "factsTitle": "Fakta om verkstedet",
+    "facts": [
+      {
+        "label": "Navn",
+        "value": "Elbilexpressen"
+      },
+      {
+        "label": "Adresse",
+        "value": "Konows gate 67B, 0196 Oslo"
+      },
+      {
+        "label": "Telefon",
+        "value": "+47 24 20 00 23"
+      },
+      {
+        "label": "E-post",
+        "value": "kontakt@elbilexpressen.no"
+      },
+      {
+        "label": "Verkstedareal",
+        "value": "Ca. 3 500 m²"
+      },
+      {
+        "label": "Godkjenning",
+        "value": "Kategori 01-verksted med egen EU-kontrollinje"
+      },
+      {
+        "label": "Kapasitet dekkhotell",
+        "value": "Ca. 3 000 kunder"
+      },
+      {
+        "label": "Bilmerker",
+        "value": "Alle merker med el- og hybriddrift"
+      },
+      {
+        "label": "Samarbeidspartnere",
+        "value": "EV Hub og Tesla Owners Club Norway (TOCN)"
+      },
+      {
+        "label": "Søsterselskap",
+        "value": "Oljeskiftexpressen"
+      }
+    ],
+    "equipmentTitle": "Utstyr og kompetanse",
+    "equipmentIntro": "Verkstedet er utstyrt for både vanlig vedlikehold og krevende arbeid på elektriske drivlinjer og høyspenningssystemer.",
+    "equipment": [
+      "Tesla Toolbox 3 for diagnostikk og programmering av Tesla",
+      "Autel-, Bosch- og Launch-diagnoseutstyr for øvrige merker",
+      "Hunter hjulstillingsutstyr",
+      "Egen EU-kontrollinje i verkstedet",
+      "Utstyr og rutiner for arbeid på høyvoltsystemer",
+      "Dekkverksted med kapasitet til ca. 3 000 dekkhotellkunder"
+    ],
+    "brandsTitle": "Bilmerker vi arbeider med",
+    "partnersTitle": "Samarbeidspartnere",
+    "partners": [
+      {
+        "title": "EV Hub",
+        "description": "Teknisk samarbeidspartner i krevende saker som gjelder høyvoltbatterier, drivenheter og elektriske drivlinjer. Samarbeidet gir oss tilgang til et sterkt fagmiljø og større kapasitet, mens vi følger opp deg og bilen gjennom hele prosessen."
+      },
+      {
+        "title": "Tesla Owners Club Norway",
+        "description": "Vi er samarbeidspartner for TOCN, og medlemmer får avtalte medlemspriser på blant annet servicepakker og EU-kontroll, i tillegg til utvalgte medlemsfordeler."
+      },
+      {
+        "title": "Oljeskiftexpressen",
+        "description": "Elbilexpressen er søsterselskapet til Oljeskiftexpressen, som er et av Oslos største verksteder for bensin- og dieselbiler. Samme team og samme kvalitetsnivå, spesialisert for elbil."
+      }
+    ],
+    "promisesTitle": "Dette lover vi deg",
+    "faq": [
+      {
+        "question": "Hvem er Elbilexpressen?",
+        "answer": "Elbilexpressen er et verksted for el- og hybridbiler i Konows gate 67B i Oslo, med ca. 3 500 m² verkstedareal. Vi er et godkjent kategori 01-verksted med egen EU-kontrollinje, og er søsterselskap til Oljeskiftexpressen."
+      },
+      {
+        "question": "Er Elbilexpressen et godkjent verksted?",
+        "answer": "Ja. Vi er godkjent som kategori 01-verksted og har egen EU-kontrollinje i verkstedet. Vi utfører og dokumenterer service etter produsentens serviceprogram, slik at garantirettighetene dine ivaretas."
+      },
+      {
+        "question": "Hvor mange biler har dere kapasitet til?",
+        "answer": "Verkstedet er på ca. 3 500 m² og har høy kapasitet, slik at vi normalt kan tilby time på kort varsel. Dekkhotellet alene har plass til rundt 3 000 kunder."
+      }
+    ]
+  }
+}

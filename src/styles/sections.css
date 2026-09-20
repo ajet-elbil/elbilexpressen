@@ -1,0 +1,131 @@
+/* Shared section styles: check-icon, about, services wrapper, CTA */
+.check-icon {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: var(--bg-green);
+  border: 1.5px solid var(--bg-green-dark);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.check-icon svg {
+  width: 11px;
+  height: 11px;
+  color: var(--primary-green-dark);
+}
+
+/* About Section */
+.about-section {
+  padding: 96px 0;
+  background-color: var(--white);
+  position: relative;
+  overflow: hidden;
+}
+
+.about-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 60px;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* Keep about content above decoration */
+.about-container {
+  position: relative;
+  z-index: 1;
+}
+
+.about-video {
+  position: relative;
+  border-radius: 16px;
+  overflow: hidden;
+  background-color: #f4f4f4;
+}
+
+.about-video video {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.about-content h2 {
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 16px;
+  color: var(--text-dark);
+  letter-spacing: -0.4px;
+  line-height: 1.2;
+}
+
+.about-content p {
+  font-size: 15px;
+  color: var(--text-gray);
+  margin-bottom: 24px;
+  line-height: 1.7;
+}
+
+/* Services Section */
+.services-section {
+  padding: 96px 0;
+  background: var(--white);
+  border-top: 1px solid var(--border-color);
+}
+
+.services-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* CTA Section */
+.cta-section {
+  padding: 96px 0;
+  background-color: var(--white);
+  text-align: center;
+}
+
+.cta-section h2 {
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: -0.3px;
+  margin-bottom: 12px;
+  color: var(--text-dark);
+}
+
+.cta-section p {
+  font-size: 15px;
+  color: var(--text-gray);
+  margin-bottom: 24px;
+}
+
+/* CTA buttons row */
+.cta-actions {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 32px;
+  margin-top: 32px;
+}
+
+.cta-btn {
+  width: 100%;
+  justify-content: center;
+  text-align: center;
+  padding: 14px 24px;
+}
+
+@media (max-width: 768px) {
+  .cta-actions {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+
+  .cta-btn {
+    width: 100%;
+  }
+}

@@ -1,0 +1,88 @@
+/* Stats counter section */
+/* Stats Section */
+.stats-section {
+  padding: 56px 0;
+  background: #f8f9fa;
+  border-top: 1px solid var(--border-color);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.stats-container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 0;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.stat-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
+  gap: 8px;
+  padding: 4px 16px;
+}
+
+.stat-item:not(:last-child) {
+  border-right: 1px solid var(--border-color);
+}
+
+.stat-number {
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--text-dark);
+  line-height: 1.2;
+  letter-spacing: -0.5px;
+}
+
+.stat-label {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-gray);
+  line-height: 1.5;
+  max-width: 220px;
+}
+
+@media (max-width: 768px) {
+  .stats-container {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 36px 0;
+  }
+
+  .stat-item {
+    padding: 4px 16px;
+  }
+
+  /* Keep a divider only between the two columns, not after every item */
+  .stat-item:not(:last-child) {
+    border-right: none;
+  }
+
+  .stat-item:nth-child(odd) {
+    border-right: 1px solid var(--border-color);
+  }
+
+  /* The final item sits alone on its row — no divider after it */
+  .stat-item:last-child {
+    border-right: none;
+  }
+
+  .stat-number {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 480px) {
+  .stats-container {
+    grid-template-columns: 1fr;
+    gap: 28px 0;
+  }
+
+  .stat-item:nth-child(odd) {
+    border-right: none;
+  }
+}
+

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="nb-NO">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <!-- iOS ignores SVG touch icons. Add a 180x180 PNG at /public/apple-touch-icon.png
+       and reference it here to get a proper home-screen icon. -->
+  <meta name="theme-color" content="#4CAF50" />
+  <!-- Search-console ownership verification. Uncomment one line and paste the
+       token from the provider; a DNS TXT record works equally well if you would
+       rather not ship a meta tag. No analytics script is included here by
+       design — add your own choice separately. -->
+  <!-- <meta name="google-site-verification" content="REPLACE_ME" /> -->
+  <!-- <meta name="msvalidate.01" content="REPLACE_ME" /> -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <!-- Preload the font stylesheet so it is requested in the first round trip
+       rather than after the HTML parser reaches it; display=swap then renders
+       text immediately in the fallback face, keeping LCP off the font. -->
+  <link rel="preload" as="style"
+    href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Barlow:wght@900&display=swap">
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Barlow:wght@900&display=swap"
+    rel="stylesheet">
+  <!--seo-head-->
+</head>
+
+<body>
+  <div id="root"><!--app-html--></div>
+  <script type="module" src="/src/main.tsx"></script>
+</body>
+
+</html>

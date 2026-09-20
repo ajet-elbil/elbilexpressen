@@ -1,0 +1,16 @@
+name = "elbilekspressen"
+compatibility_date = "2026-01-23"
+
+[assets]
+directory = "./dist"
+
+# Serve dist/404.html with a real 404 status for unknown URLs. Without this an
+# unknown path would either 404 with a blank body or be rewritten to the
+# homepage — a soft 404, which makes crawlers index URLs that do not exist.
+not_found_handling = "404-page"
+
+# Every canonical URL ends in a slash (see absoluteUrl in src/seo.config.ts).
+# Forcing the same convention here means /tesla-service-oslo 308-redirects to
+# /tesla-service-oslo/ rather than both forms answering 200 — one canonical URL
+# per page, and no canonical tag pointing at a URL that itself redirects.
+html_handling = "force-trailing-slash"

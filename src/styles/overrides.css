@@ -1,0 +1,337 @@
+/* Component overrides, animations, brand accents & responsive tweaks (was App.css) */
+
+/* Hero spacing override (keeps top/bottom proportional) */
+.hero {
+  padding-top: 160px;
+  padding-bottom: 120px;
+  background: var(--white);
+}
+
+/* Smooth scroll offset for fixed header */
+section[id] {
+  scroll-margin-top: 110px;
+}
+
+/* Mobile menu button (hidden by default) */
+.mobile-menu-btn {
+  display: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+}
+
+.mobile-menu-btn svg {
+  width: 24px;
+  height: 24px;
+  color: var(--text-dark);
+}
+
+/* Animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.hero-content,
+.hero-illustration {
+  animation: fadeInUp 0.8s ease-out;
+}
+
+.hero-illustration {
+  animation-delay: 0.2s;
+}
+
+/* Button focus states for accessibility */
+.btn:focus-visible {
+  outline: 3px solid var(--primary-green);
+  outline-offset: 2px;
+}
+
+.nav-link:focus-visible {
+  outline: 2px solid var(--primary-green);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Wordmark — the SVG inherits its main colour from the link/parent */
+.logo-mark {
+  display: block;
+  height: auto;
+  color: var(--text-dark);
+}
+
+.header .logo-mark {
+  width: 160px;
+}
+
+.footer-brand .logo-mark {
+  width: 180px;
+  margin-bottom: 4px;
+}
+
+@media (max-width: 640px) {
+  .footer-brand .logo-mark {
+    margin: 0 auto 4px;
+  }
+}
+
+.sister-section {
+  background-color: #f8f8f8;
+  padding: 56px 0;
+  border-top: 1px solid var(--border-color);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.sister-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 24px;
+  display: flex;
+  align-items: center;
+  gap: 48px;
+}
+
+.sister-logo {
+  height: 80px;
+  width: auto;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+
+.sister-divider {
+  width: 1px;
+  height: 72px;
+  background-color: var(--border-color);
+  flex-shrink: 0;
+}
+
+.sister-content {
+  flex: 1;
+}
+
+.sister-content .section-label {
+  display: block;
+  margin-bottom: 6px;
+}
+
+.sister-content h3 {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--text-dark);
+  margin-bottom: 8px;
+  letter-spacing: -0.2px;
+}
+
+.sister-content p {
+  font-size: 14px;
+  color: var(--text-gray);
+  line-height: 1.7;
+}
+
+@media (max-width: 640px) {
+  .sister-container {
+    flex-direction: column;
+    text-align: center;
+    gap: 24px;
+  }
+
+  .sister-divider {
+    width: 48px;
+    height: 1px;
+  }
+
+  .sister-content p {
+    margin: 0 auto;
+  }
+}
+
+.btn-primary-red {
+  background-color: transparent;
+  color: #E4111E;
+  border: 2px solid #E4111E;
+}
+
+.btn-primary-red:hover {
+  background-color: #E4111E;
+  color: var(--white);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-hover);
+}
+
+/* Enhanced responsive breakpoints */
+@media (max-width: 1024px) {
+  .hero-content h1 {
+    font-size: 40px;
+  }
+
+  .about-content h2 {
+    font-size: 24px;
+  }
+}
+
+/* Reset AboutSection order above 995px (image first, text second) */
+@media (min-width: 996px) {
+  .about-content {
+    order: 0;
+  }
+
+  .about-video {
+    order: 0;
+  }
+}
+
+/* Center hero content on tablet/small desktop */
+@media (max-width: 995px) {
+  .hero-container {
+    grid-template-columns: 1fr;
+    justify-items: center;
+    text-align: center;
+  }
+
+  .hero-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .hero-content p {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .hero-buttons {
+    justify-content: center;
+  }
+
+  .hero-illustration {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .hero-illustration img {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* Reorder AboutSection: text first, then image until 995px */
+  .about-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .about-content {
+    order: 1;
+  }
+
+  .about-video {
+    order: 2;
+  }
+}
+
+@media (max-width: 768px) {
+  .header-container {
+    padding: 12px 16px;
+  }
+
+  .hero {
+    padding-top: 140px;
+    padding-bottom: 100px;
+  }
+
+  .hero-content h1 {
+    font-size: 32px;
+  }
+
+  .hero-buttons {
+    flex-direction: column;
+  }
+
+  .hero-buttons .btn {
+    width: 100%;
+    text-align: center;
+  }
+
+  .about-section,
+  .services-section,
+  .cta-section {
+    padding: 72px 0;
+  }
+
+  .cta-section h2 {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 480px) {
+
+  .container,
+  .hero-container,
+  .about-container,
+  .services-container,
+  .footer-container {
+    padding: 0 16px;
+  }
+
+  .hero-content h1 {
+    font-size: 26px;
+  }
+
+  .btn {
+    padding: 10px 20px;
+    font-size: 13px;
+  }
+
+  .footer-grid {
+    gap: 32px;
+  }
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+  .btn-primary {
+    border: 2px solid var(--white);
+  }
+
+  .btn-outline {
+    border-width: 3px;
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Print styles */
+@media print {
+
+  .header,
+  .btn {
+    display: none;
+  }
+
+  .hero {
+    padding-top: 0;
+  }
+
+  section {
+    page-break-inside: avoid;
+  }
+}

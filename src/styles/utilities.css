@@ -1,0 +1,47 @@
+/* Scroll-reveal animation and section labels */
+/* Scroll reveal.
+   The hidden state is scoped to `html.js`, a class set by useScrollReveal once
+   JavaScript runs. Crawlers that do not execute JS never see the class, so the
+   prerendered HTML renders fully visible instead of at opacity 0. */
+.js .reveal {
+  opacity: 0;
+  transform: translateY(28px);
+  transition: opacity 0.65s ease, transform 0.65s ease;
+}
+
+.js .reveal.revealed {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .js .reveal { opacity: 1; transform: none; }
+}
+
+/* Section Labels */
+.section-label {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  color: #E4111E;
+  margin-bottom: 12px;
+}
+
+/* Keyboard users land here first; visually hidden until focused (WCAG 2.4.1). */
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 1000;
+  padding: 12px 20px;
+  background: var(--text-dark);
+  color: var(--white);
+  font-weight: 600;
+  border-radius: 0 0 8px 0;
+}
+
+.skip-link:focus {
+  left: 0;
+}

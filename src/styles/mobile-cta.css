@@ -1,0 +1,29 @@
+/* Mobile sticky booking CTA */
+/* Mobile sticky booking CTA */
+.mobile-sticky-cta {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .mobile-sticky-cta {
+    display: block;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 12px 16px 24px;
+    background: var(--white);
+    border-top: 1px solid var(--border-color);
+    z-index: 1500;
+    box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.07);
+  }
+
+  .mobile-sticky-cta .btn {
+    width: 100%;
+  }
+
+  .footer {
+    padding-bottom: calc(60px + 32px);
+  }
+}
+

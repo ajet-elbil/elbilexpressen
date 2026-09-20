@@ -1,0 +1,99 @@
+/* Cross-section responsive breakpoints */
+/* Responsive */
+@media (max-width: 995px) {
+
+  .hero-container,
+  .about-container {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+
+  .hero-content h1 {
+    font-size: 36px;
+  }
+
+  .nav-links {
+    display: none;
+  }
+
+  .nav-links.nav-links-open {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: var(--white);
+    padding: 8px 24px 20px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+    border-top: 1px solid var(--border-color);
+    z-index: 999;
+    gap: 0;
+  }
+
+  .nav-links.nav-links-open li {
+    border-bottom: 1px solid var(--border-color);
+  }
+
+  .nav-links.nav-links-open li:last-child {
+    border-bottom: none;
+  }
+
+  .nav-links.nav-links-open .nav-link {
+    display: block;
+    padding: 14px 0;
+    font-size: 15px;
+  }
+
+  .mobile-menu-btn {
+    display: flex;
+  }
+
+  .nav-booking-btn {
+    display: none;
+  }
+
+  .footer-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* Only when footer is 2 columns (tablet range), add left padding to the right column */
+@media (min-width: 641px) and (max-width: 995px) {
+
+  .footer-grid> :nth-child(2),
+  .footer-grid> :nth-child(4) {
+    padding-left: 90px;
+  }
+}
+
+@media (max-width: 640px) {
+  .hero-content h1 {
+    font-size: 28px;
+  }
+
+  .footer-grid {
+    grid-template-columns: 1fr;
+    row-gap: 24px;
+  }
+
+  /* When stacked on mobile, center footer content */
+  .footer-brand,
+  .footer-column {
+    text-align: center;
+  }
+
+  /* Center the wordmark */
+  .footer-brand .logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .footer-bottom {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}
+

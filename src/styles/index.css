@@ -1,0 +1,17 @@
+/* Style barrel — imported once in main.tsx.
+   Order is significant: it reproduces the original cascade exactly. */
+@import "./base.css";
+@import "./header.css";
+@import "./hero.css";
+@import "./sections.css";
+@import "./footer.css";
+@import "./responsive.css";
+@import "./utilities.css";
+@import "./mobile-cta.css";
+@import "./stats.css";
+@import "./booking-modal.css";
+@import "./cards.css";
+@import "./content-sections.css";
+@import "./landing.css";
+@import "./responsive-extra.css";
+@import "./overrides.css";

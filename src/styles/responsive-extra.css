@@ -1,0 +1,64 @@
+/* Final responsive breakpoints for cards/tocn/faq */
+/* Responsive */
+@media (max-width: 995px) {
+  .about-values {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .tocn-benefits {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .service-cards {
+    grid-template-columns: 1fr;
+  }
+
+  .tocn-pricelists {
+    grid-template-columns: 1fr;
+  }
+
+  .tocn-section,
+  .intervals-section,
+  .faq-section {
+    padding: 72px 0;
+  }
+
+  .services-header h2,
+  .tocn-header h2 {
+    font-size: 26px;
+  }
+}
+
+@media (max-width: 640px) {
+  .about-values {
+    grid-template-columns: 1fr;
+  }
+
+  .tocn-benefits {
+    grid-template-columns: 1fr;
+  }
+
+  .intervals-table th,
+  .intervals-table td,
+  .tocn-pricelist th,
+  .tocn-pricelist td {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .tocn-pricelist th:first-child,
+  .tocn-pricelist td:first-child {
+    max-width: 140px;
+  }
+}
+
+@media (max-width: 480px) {
+  .about-values-container,
+  .tocn-container,
+  .intervals-container,
+  .faq-container {
+    padding: 0 16px;
+  }
+}

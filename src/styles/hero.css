@@ -1,0 +1,54 @@
+/* Hero section + opening-hours badge */
+/* Hero Section */
+.hero {
+  padding-top: 120px;
+  padding-bottom: 80px;
+  min-height: 80vh;
+  background: var(--white);
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+
+.hero-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 60px;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.hero-content h1 {
+  font-size: 52px;
+  font-weight: 700;
+  line-height: 1.08;
+  letter-spacing: -0.3px;
+  margin-bottom: 20px;
+  color: var(--text-dark);
+}
+
+.hero-content p {
+  font-size: 16px;
+  color: var(--text-gray);
+  margin-bottom: 32px;
+  max-width: 480px;
+}
+
+.hero-buttons {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.hero-buttons .btn {
+  width: 150px;
+  text-align: center;
+}
+
+.hero-illustration {
+  position: relative;
+}
+
