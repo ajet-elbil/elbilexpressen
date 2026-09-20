@@ -228,8 +228,8 @@
       "interval": "Ved behov – eller som forebyggende sjekk hvert år",
       "duration": "Ca. 45–60 minutter",
       "price": {
-        "standard": "Fra kr 990,-",
-        "tocn": "Fra kr 790,- (TOCN-rabatt)"
+        "standard": "Fra kr 560,-",
+        "tocn": ""
       }
     },
     {
@@ -306,12 +306,12 @@
       "interval": "Ved sesongskifte eller behov",
       "duration": "Ca. 45 minutter",
       "price": {
-        "standard": "Fra kr 990,-",
-        "tocn": "Fra kr 790,- (TOCN-rabatt)"
+        "standard": "Fra kr 560,-",
+        "tocn": ""
       },
       "note": "Prisgaranti: Send oss et sammenlignbart tilbud på samme dekkmodell, dimensjon, belastningsindeks, hastighetsmerking og ferdig montert totalpris. Når vilkårene er oppfylt, gir vi deg en lavere pris.",
       "bookingLabel": "Dekk og dekkskift",
-      "bookingPrice": "Fra kr 990,-"
+      "bookingPrice": "Fra kr 560,-"
     },
     {
       "id": "ac-service",
@@ -948,7 +948,7 @@
         },
         {
           "label": "Diagnostikk",
-          "value": "Fra kr 990,-"
+          "value": "Fra kr 560,-"
         },
         {
           "label": "Bremseservice",
@@ -1032,7 +1032,7 @@
         },
         {
           "label": "Diagnostikk",
-          "value": "Fra kr 990,-"
+          "value": "Fra kr 560,-"
         },
         {
           "label": "Bremseservice",
@@ -1055,11 +1055,11 @@
           "heading": "Priser på vanlige BMW-jobber",
           "bullets": [
             "EU-kontroll – kr 990,-",
-            "Diagnostikk og feilsøking – fra kr 990,-",
+            "Diagnostikk og feilsøking – Fra kr 560,-",
             "Bremseservice med rens og smøring – fra kr 1 490,-",
             "Skifte av kupefilter – fra kr 690,-",
             "AC-service og klimarens – fra kr 1 890,-",
-            "Dekkskift og balansering – fra kr 990,-"
+            "Dekkskift og balansering – Fra kr 560,-"
           ],
           "paragraphs": [
             "Har du et skriftlig og sammenlignbart tilbud fra et annet offentlig godkjent verksted, skal vi gi deg en lavere totalpris på samme jobb. Tilbudet må være maksimalt 14 dager gammelt og avklares før arbeidet bestilles."
@@ -1077,7 +1077,7 @@
         },
         {
           "question": "Kan dere feilsøke feilkoder på BMW?",
-          "answer": "Ja. Vi har Autel-, Bosch- og Launch-diagnoseutstyr og utfører systematisk feilsøking fra kr 990,-. Du får en forklaring på hva feilkoden betyr og et prisoverslag før eventuell reparasjon."
+          "answer": "Ja. Vi har Autel-, Bosch- og Launch-diagnoseutstyr og utfører systematisk feilsøking Fra kr 560,-. Du får en forklaring på hva feilkoden betyr og et prisoverslag før eventuell reparasjon."
         }
       ],
       "relatedServiceIds": [
@@ -1110,7 +1110,7 @@
         },
         {
           "label": "Diagnostikk",
-          "value": "Fra kr 990,-"
+          "value": "Fra kr 560,-"
         },
         {
           "label": "Kupefilter",
@@ -1267,7 +1267,7 @@
         },
         {
           "label": "Diagnostikk",
-          "value": "Fra kr 990,-"
+          "value": "Fra kr 560,-"
         },
         {
           "label": "Bremseservice",
@@ -1338,7 +1338,7 @@
       "keyFacts": [
         {
           "label": "Diagnostikk",
-          "value": "Fra kr 990,-"
+          "value": "Fra kr 560,-"
         },
         {
           "label": "Reparasjon",
@@ -1420,7 +1420,7 @@
       "title": "Tesla batteri- og drivenhetsreparasjon Oslo | Elbilexpressen",
       "metaDescription": "Feilsøking og reparasjon av Tesla-batteri, drivenhet, ladesystem og høyvoltkomponenter i Oslo. Tesla Toolbox 3 og teknisk samarbeid med EV Hub.",
       "h1": "Tesla-batteri og drivenhet – reparasjon når det er mulig",
-      "intro": "Elbilexpressen feilsøker og reparerer Tesla-batterier, drivenheter, ladesystemer og øvrige høyvoltkomponenter i Konows gate 67B i Oslo. Vi bruker Tesla Toolbox 3 og starter alltid med diagnostikk fra kr 990,- for å finne den faktiske årsaken. I krevende saker samarbeider vi teknisk med EV Hub.",
+      "intro": "Elbilexpressen feilsøker og reparerer Tesla-batterier, drivenheter, ladesystemer og øvrige høyvoltkomponenter i Konows gate 67B i Oslo. Vi bruker Tesla Toolbox 3 og starter alltid med diagnostikk Fra kr 560,- for å finne den faktiske årsaken. I krevende saker samarbeider vi teknisk med EV Hub.",
       "keyFacts": [
         {
           "label": "Modeller",
@@ -1428,7 +1428,7 @@
         },
         {
           "label": "Diagnostikk",
-          "value": "Fra kr 990,- (kr 790,- for TOCN-medlemmer)"
+          "value": "Fra kr 560,- (kr 790,- for TOCN-medlemmer)"
         },
         {
           "label": "Utstyr",
@@ -1707,14 +1707,14 @@
     {
       "slug": "dekk-elbil-oslo",
       "label": "Dekk",
-      "title": "Dekk til elbil i Oslo – fra kr 990,- montert | Elbilexpressen",
-      "metaDescription": "Sommer- og vinterdekk til elbil i Oslo. Montering, balansering og TPMS-kontroll fra kr 990,-. Pirelli, Nokian, Continental og Goodyear. Drop-in.",
+      "title": "Dekk til elbil i Oslo – Fra kr 560,- montert | Elbilexpressen",
+      "metaDescription": "Sommer- og vinterdekk til elbil i Oslo. Montering, balansering og TPMS-kontroll Fra kr 560,-. Pirelli, Nokian, Continental og Goodyear. Drop-in.",
       "h1": "Dekk til elbil – riktig valg til riktig pris",
-      "intro": "Elbilexpressen selger og monterer sommer- og vinterdekk til el- og hybridbiler i Konows gate 67B i Oslo. Dekkskift med balansering koster fra kr 990,-, og vi fører Pirelli, Nokian Tyres, Continental, Goodyear og Dynamo i flere prisklasser. Du kan komme på drop-in eller bestille time.",
+      "intro": "Elbilexpressen selger og monterer sommer- og vinterdekk til el- og hybridbiler i Konows gate 67B i Oslo. Dekkskift med balansering koster Fra kr 560,-, og vi fører Pirelli, Nokian Tyres, Continental, Goodyear og Dynamo i flere prisklasser. Du kan komme på drop-in eller bestille time.",
       "keyFacts": [
         {
           "label": "Dekkskift og balansering",
-          "value": "Fra kr 990,- (kr 790,- for TOCN-medlemmer)"
+          "value": "Fra kr 560,- (kr 790,- for TOCN-medlemmer)"
         },
         {
           "label": "Dekkmerker",
@@ -1761,7 +1761,7 @@
       "faq": [
         {
           "question": "Hva koster dekkskift på elbil i Oslo?",
-          "answer": "Dekkskift med balansering koster fra kr 990,- hos Elbilexpressen, og fra kr 790,- for TOCN-medlemmer. Du kan komme på drop-in i Konows gate 67B eller bestille time på forhånd."
+          "answer": "Dekkskift med balansering koster Fra kr 560,- hos Elbilexpressen, og fra kr 790,- for TOCN-medlemmer. Du kan komme på drop-in i Konows gate 67B eller bestille time på forhånd."
         },
         {
           "question": "Trenger elbilen min spesielle dekk?",
@@ -1865,7 +1865,7 @@
     "slug": "elbil-service-oslo",
     "label": "Elbil service Oslo",
     "title": "Elbil service Oslo – rask time og fastpriser | Elbilexpressen",
-    "metaDescription": "Elbil service i Oslo hos Elbilexpressen, Konows gate 67B. EU-kontroll kr 990,-, diagnostikk fra kr 990,-, Tesla-service fra kr 3 490,-. Ring 24 20 00 23.",
+    "metaDescription": "Elbil service i Oslo hos Elbilexpressen, Konows gate 67B. EU-kontroll kr 990,-, diagnostikk Fra kr 560,-, Tesla-service fra kr 3 490,-. Ring 24 20 00 23.",
     "h1": "Elbil service i Oslo – Konows gate 67B",
     "intro": "Elbilexpressen er et verksted for el- og hybridbiler i Konows gate 67B, 0196 Oslo. Vi utfører service, EU-kontroll, diagnostikk, bremse- og dekkarbeid samt reparasjon av høyvoltsystemer, og du får normalt time på kort varsel. Ring 24 20 00 23 eller bestill time på nett.",
     "napTitle": "Kontaktinformasjon",
@@ -1887,7 +1887,7 @@
       },
       {
         "title": "Faste priser",
-        "description": "EU-kontroll kr 990,-, diagnostikk fra kr 990,-, bremseservice fra kr 1 490,- og Tesla-servicepakker fra kr 3 490,-."
+        "description": "EU-kontroll kr 990,-, diagnostikk Fra kr 560,-, bremseservice fra kr 1 490,- og Tesla-servicepakker fra kr 3 490,-."
       },
       {
         "title": "Prisgaranti",
@@ -1905,7 +1905,7 @@
       },
       {
         "question": "Hva koster elbil-service i Oslo?",
-        "answer": "Hos Elbilexpressen koster EU-kontroll kr 990,-, diagnostikk fra kr 990,-, bremseservice fra kr 1 490,- og skifte av kupefilter fra kr 690,-. Tesla-servicepakker starter på kr 3 490,- for Model 3 og Model Y."
+        "answer": "Hos Elbilexpressen koster EU-kontroll kr 990,-, diagnostikk Fra kr 560,-, bremseservice fra kr 1 490,- og skifte av kupefilter fra kr 690,-. Tesla-servicepakker starter på kr 3 490,- for Model 3 og Model Y."
       },
       {
         "question": "Hvor lang tid tar elbil-service i Oslo?",

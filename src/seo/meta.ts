@@ -43,7 +43,7 @@ export interface PageMeta {
 export const HOME_TITLE = 'Elbilexpressen – verksted for elbil og hybrid i Oslo';
 export const HOME_DESCRIPTION =
   'Verksted for el- og hybridbiler i Konows gate 67B i Oslo. EU-kontroll kr 990,-, ' +
-  'diagnostikk fra kr 990,- og Tesla-service fra kr 3 490,-. Rask time og prisgaranti.';
+  'diagnostikk Fra kr 560,- og Tesla-service fra kr 3 490,-. Rask time og prisgaranti.';
 
 const HOME_CRUMB: Breadcrumb = { name: 'Hjem', path: '/' };
 
